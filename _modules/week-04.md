@@ -14,3 +14,4 @@ Sep 19
 Sep 20
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Sep 24)
 : **Homework 3**{: .label .label-hw } Tweets (due Sep 26)
+: **Drop Deadline (with fee)**{: .label .label-deadline } 11.59pm PT

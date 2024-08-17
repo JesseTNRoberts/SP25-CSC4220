@@ -14,3 +14,4 @@ Sep 12
 Feb 13
 : **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Feb 6)
 : **Homework 2B**{: .label .label-hw } Food Safety II (due Feb 8)
+: **Add Deadline (w/o fee)**{: .label .label-deadline } 11.59pm PT
