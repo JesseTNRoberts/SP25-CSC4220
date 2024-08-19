@@ -11,7 +11,7 @@ course:
     faq: https://ds100.org/faqs/fa24/
     bcourses: ""
     instructors:
-    head_ta_1:
+    head_ta_1: Angela Feng
     head_1_email:
     head_ta_2: 
     head_2_email: 

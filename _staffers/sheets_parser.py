@@ -4,7 +4,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import json
-
+import mdutils
 from mdutils.mdutils import MdUtils
 from mdutils import Html
 
@@ -17,24 +17,26 @@ scopes = [
 ]
 credentials = ServiceAccountCredentials.from_json_keyfile_name("sheets_parser.json", scopes) # access the json key you downloaded earlier
 file = gspread.authorize(credentials) # authenticate the JSON key with gspread
-sheet = file.open("[Data 100] Spring 2024 Staff Onboarding (Responses)")  # open sheet
+sheet = file.open("Staff (for website)")  # open sheet
 sheet = sheet.sheet1  # all desired info should be in the first sheet
 
 def attribute_parser(row):
     attributes = {}
     print(row)
-    attributes["email"] = row[1] # row[1] is "Email Address"
+    attributes["email"] = row[0] # row[1] is "Email Address"
     last_name = re.search(r'\s([^\s]+)$', row[2]) # row[2] is "What's your full name?", matching the last word in the name
-    attributes["name"] = row[2].strip() if last_name == None else row[3].strip() + ' ' + re.search(r'\s([^\s]+)$', row[2]).group(0).strip()
+    attributes["name"] = row[3].strip() if last_name == None else row[1].strip() + ' ' + re.search(r'\s([^\s]+)$', row[2]).group(0).strip()
     print("Name is", attributes["name"])
-    attributes["pronouns"] = row[4]
-    attributes["role"] = assign_role(row[8])
-    attributes["sid"] = row[10] # Update from fa23, row[9] is returner or not
+    attributes["pronouns"] = row[5]
+    attributes["role"] = assign_role(row[4])
+    #attributes["sid"] = row[10] # Update from fa23, row[9] is returner or not
     attributes["photo_name"] = attributes['name'].replace(' ', '_')
     print("Photo name is", attributes["photo_name"])
-    attributes["bio"] = row[14].replace('\n', '').replace('’', "'")
-    if len(row) > 14:
-        attributes["website"] = row[15]
+    attributes["bio"] = row[6].replace('\n', '').replace('’', "'")
+    print(row[0])
+    print(row)
+    if len(row) > 7:
+        attributes["website"] = row[7]
     else:
         attributes["website"] = ''
     # if attributes["role"] == "Instructor":
@@ -42,7 +44,7 @@ def attribute_parser(row):
     return attributes
 
 def assign_role(job):
-    if "20" in job:
+    if "Lead" in job:
         return "Lead Teaching Assistant"
     elif "UCS2" in job:
         return "UCS2"
@@ -63,7 +65,7 @@ def get_photo_location(photos, attributes):
 
 def main():
     photos = os.listdir('../resources/assets/staff_pics')
-    for i in range(51, 54): #modify the second number depending on the number of rows in the sheet.
+    for i in range(2, 19): #modify the second number depending on the number of rows in the sheet.
         row = sheet.row_values(i)
         attributes = attribute_parser(row)
         filename = attributes['name'].lower().replace(' ', '_') + '.md'
@@ -74,7 +76,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/fa24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 # + 'oh: ' + attributes['oh'] + '\n'
                 + '---\n'
@@ -85,7 +87,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/sp24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/fa24-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 + '---\n'
                 + attributes['bio'] + '\n')
