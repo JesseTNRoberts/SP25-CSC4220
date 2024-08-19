@@ -11,9 +11,9 @@ course:
     faq: https://ds100.org/faqs/fa24/
     bcourses: ""
     instructors:
-    head_ta_1: Angela Feng
+    head_ta_1:
     head_1_email:
-    head_ta_2: 
+    head_ta_2:
     head_2_email: 
     comms_ta: support email
     comms_email: data100.support@berkeley.edu
@@ -44,7 +44,7 @@ Combining data, computation, and inferential thinking, data science is redefinin
 <a name = 'prereq'></a>
 ### Prerequisites
 
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in Data 100. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. Undergraduates should fill out the [Enrollment Exception Form](https://data.berkeley.edu/spring-2024-classes-enrollment-info){:target="_blank"} managed by CDSS to request an exception.
+While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites. **Prerequisites will be enforced in Data 100. It is your responsibility to know the material in the prerequisites.** The instructors do not have the authority to waive these requirements. Undergraduates should fill out the [Enrollment Exception Form](https://cdss.berkeley.edu/class-enrollment-information#prerequisites){:target="_blank"} managed by CDSS to request an exception.
 
 - **Foundations of Data Science**: [Data 8](http://data8.org/){:target="_blank"} covers much of the material in Data 100 but at an introductory level. Data 8 provides basic exposure to python programming and working with tabular data as well as visualization, statistics, and machine learning.
 
@@ -103,8 +103,8 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
 | | <span style="color:Blue">Discussion Section</span>| <span style="color:Blue">Discussion Section</span>| | | 
 | | Office Hours | Office Hours | Office Hours | Office Hours | 
-| | | |<span style="color:Red">**Homework N-1 due**</span> | <span style="color:Red">Homework N released</span> | 
-| |<span style="color:Red">**Lab N-1 due**</span>| | | <span style="color:Red">Lab N released</span>|
+| | | |<span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework N released</span> | 
+| |<span style="color:#c91d1d">**Lab N-1 due**</span>| | | <span style="color:#c91d1d">Lab N released</span>|
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
@@ -187,7 +187,7 @@ We want to enable everyone to succeed in this course. We encourage you to discus
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/51810){:target="_blank"} or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/62812){:target="_blank"} or the [FAQ]({{page.course.faq}}){:target="_blank"} page first before emailing course staff directly.
 
     - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="_blank"} and the [Berkeley Campus Code of Student Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf){:target="_blank"}.
 
