@@ -15,4 +15,4 @@ Sep 5
 Sep 6
 : **Lab 2A**{: .label .label-lab } Pandas (due Sep 10)
 : **Homework 2A**{: .label .label-hw } Food Safety (due Sep 12)
-: **Drop Deadline (w/o fee)**{: .label .label-deadline } 11.59pm PT
+: **Drop Deadline (w/o fee)**{: .label .label-deadline } 11:59pm PT
