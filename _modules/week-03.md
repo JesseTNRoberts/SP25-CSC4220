@@ -11,7 +11,7 @@ Sep 12
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
 
 
-Feb 13
-: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Feb 6)
-: **Homework 2B**{: .label .label-hw } Food Safety II (due Feb 8)
+Sep 13
+: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 17)
+: **Homework 2B**{: .label .label-hw } Food Safety II (due Sep 19)
 : **Add Deadline (w/o fee)**{: .label .label-deadline } 11:59pm PT

@@ -4,7 +4,6 @@ title: Week 6
 
 Oct 1
 : **Lecture 10**{: .label .label-lecture} Modeling, SLR
-
 : **Discussion 5**{: .label .label-disc } Probability, Sampling, and Visualization
 
 Oct 3

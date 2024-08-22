@@ -5,7 +5,6 @@ title: Week 10
 
 Oct 29
 : **Lecture 18**{: .label .label-lecture} Estimators, Bias, and Variance
-
 : **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 Oct 31

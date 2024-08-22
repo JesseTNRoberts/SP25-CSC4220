@@ -5,7 +5,6 @@ title: Week 15
 
 Dec 3
 : **Lecture 27**{: .label .label-lecture} Clustering
-
 : **Discussion 14**{: .label .label-disc } Clustering
 
 Dec 5

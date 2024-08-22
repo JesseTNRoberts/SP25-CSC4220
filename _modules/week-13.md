@@ -5,7 +5,6 @@ title: Week 13
 
 Nov 19
 : **Lecture 24**{: .label .label-lecture} LLMs
-
 : **Discussion 12**{: .label .label-disc } Logistic Regression
 
 Nov 21
