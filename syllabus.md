@@ -150,7 +150,6 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
 - Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
-- See the [Policies](#policies) section for the submission grace period.
 
 ### Lab
 
@@ -159,7 +158,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All lab autograder tests are public (visible).
 - We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
 - All labs are intended to take about an hour.
-- Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200. See the [Policies](#policies) section for the submission grace period.
+- Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200.
 
 ### Exams
 
@@ -216,26 +215,12 @@ To pass this course, students must achieve a total weighted average percentage o
 
 It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
-While we do not have homework and lab drops this semester, we will offer a grace period for homeworks/projects/labs, as well as an [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. See the next sections for more details.
+While we do not have homework and lab drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. See the next sections for more details.
 
 
 ### On-Time Submission
 
 All assignments are due at **_11:59 PM Pacific Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
-
-**Submitting by this “on-time” deadline earns an extra-credit on-time bonus, a 3% perk.** This is available for homeworks, projects, and labs.
-
-<!-- 
-### Grace Period
-
-We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
-
-{: .note }
-> You can make a late submission after the on-time deadline and up to the end of the grace period. **These late submissions are not penalized, but do not earn the 3% on-time bonus.** You do not need to explicitly contact staff about late submissions; just submit directly to Gradescope within the listed grace period.
-
-**Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected comes up when aiming for the on-time deadline. As a result, getting an extension beyond the grace period will generally not be granted, except in rare, extraordinary emergencies (see the [Extenuating Circumstances](#extenuating-circumstances) section). The grace period is also intended to account for unexpected circumstances such as DataHub issues, so we will not be granting extensions if you fail to communicate any datahub issues before the grace period begins.
-
-All official communication will refer to the on-time deadline as the expected dates that you will submit assignments.  -->
 
 ### Slip Days
 
