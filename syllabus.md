@@ -225,7 +225,7 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 **Submitting by this “on-time” deadline earns an extra-credit on-time bonus, a 3% perk.** This is available for homeworks, projects, and labs.
 
-
+<!-- 
 ### Grace Period
 
 We recognize that life can be unexpected, and that you may face circumstances that prevent you from submitting your work by the posted deadline. In light of this, we offer a 1-day (24 hour) **grace period** for late submissions of homeworks, projects, and labs. Note that this grace period is designed to account for unexpected emergencies or technical difficulties (e.g. assignment submission errors) – you should not plan in advance to use it! 
@@ -235,28 +235,37 @@ We recognize that life can be unexpected, and that you may face circumstances th
 
 **Submissions are not accepted beyond the grace period. The grace period is strictly enforced.** We recommend thinking of the grace period as a backup, in case something unexpected comes up when aiming for the on-time deadline. As a result, getting an extension beyond the grace period will generally not be granted, except in rare, extraordinary emergencies (see the [Extenuating Circumstances](#extenuating-circumstances) section). The grace period is also intended to account for unexpected circumstances such as DataHub issues, so we will not be granting extensions if you fail to communicate any datahub issues before the grace period begins.
 
-All official communication will refer to the on-time deadline as the expected dates that you will submit assignments. 
+All official communication will refer to the on-time deadline as the expected dates that you will submit assignments.  -->
 
+### Slip Days
 
-### Extenuating Circumstances
+Each student gets an extension budget of **12** total slip days. You can apply these slip days to homework and projects only (not labs) during the semester.
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you.
+Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope.
+Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations.
+Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
-{: .important }
-The **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}** is for any circumstances that cannot be resolved via the grace period policy above. Within two business days of filling out the form, a course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+### Additional Accommodations
 
-We recognize that at times, it can be difficult to manage your course performance — particularly in such a huge course, and particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). **Our Grace Period Policy combined with the Extenuating Circumstances Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term.** So please do not hesitate to reach out.
+We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-Note that extenuating circumstances do not extend to logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. **It is the student’s responsibility to identify and resolve these issues in advance of the on-time deadline.** We will not grant accommodations for these cases; instead, please use the grace period to cushion these submission errors.
+The **[Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email data100.support@berkeley.edu. 
+
+We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"} is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
+
+Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline. 
+We will not grant accommodations for these cases; instead, please use slip days to cushion these submission errors.
+
+Finally, simply submitting a request does not guarantee you will receive an extension. You must submit your requests before running out of slip days. **Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.**
 
 
 ### DSP Accommodations
 
 {: .important }
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our student support team at [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/HFdpmHzBu1e7zcF2A){:target="_blank"}**.
 
-You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). DSP students who receive approved extension accommodations will have an automatic 2-day extension on labs, homeworks, and projects. Please note that any extension, plus the slip days combined, cannot exceed **7 days**. DSP students can use the **[Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}** to request extension accommodations beyond the provided 2-days. 
 
+You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. **Even if your work is incomplete, please submit before the deadline so you can receive work for the work you did complete.**
 
 ### Regrade Requests
 
