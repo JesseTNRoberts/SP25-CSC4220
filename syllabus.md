@@ -226,7 +226,7 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 ### Slip Days
 
-Each student gets an extension budget of *12* total slip days for the 12 homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
+Each student gets an extension budget of **12** total slip days for the 12 homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
 
 Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. Note: If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
