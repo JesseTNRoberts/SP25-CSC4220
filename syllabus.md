@@ -159,6 +159,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
 - All labs are intended to take about an hour.
 - Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200.
+- Your two lowest lab scores will be dropped.
 
 ### Exams
 
@@ -202,11 +203,11 @@ Course Communication:
 
 | Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Homeworks | 25% | 30% | 20% | 35% | No drop|
-| Projects | 10% | 10%| 10% | 20% | No drop|
-| Labs | 5% | 5% |  - |  5% | No drop|
-| Discussions | 5% | - | - | - | Drop 3 lowest scores|
-| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores|
+| Homeworks | 25% | 30% | 20% | 35% | No drop |
+| Projects | 10% | 10%| 10% | 20% | No drop |
+| Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
+| Discussions | 5% | - | - | - | Drop 3 lowest scores |
+| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
 | Midterm Exam | 20% | 20% | 20% | - | |
 | Final Exam | 30% | 30% | 30% | - | |
 | Graduate Final Project| - | - | 15% | 35% | |
@@ -217,7 +218,7 @@ Course Communication:
 
 It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
-While we do not have homework and lab drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. See the next sections for more details.
 
 
 ### On-Time Submission
@@ -228,7 +229,11 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 Each student gets an extension budget of **12** total slip days for the 12 homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. Note: If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. 
+
+{: .note }
+> If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
+
 
 ### Additional Accommodations
 
