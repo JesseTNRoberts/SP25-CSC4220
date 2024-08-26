@@ -47,7 +47,7 @@ This calendar contains times for
 - Lectures (in <span style="color:brown">**brown**</span>)
 - In-person discussion sections (in <span style="color:orange">**orange**</span>)
 - Remote discussion sections (in <span style="color:blue">**blue**</span>)
-- Exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>)
+<!-- - Exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>) -->
 
 <!-- **Note: All events on this calendar are virtual.** -->
 

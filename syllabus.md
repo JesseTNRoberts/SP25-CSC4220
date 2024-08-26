@@ -101,8 +101,8 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
 | | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
-| | <span style="color:Blue">Discussion Section</span>| <span style="color:Blue">Discussion Section</span>| | | 
-| | Office Hours | Office Hours | Office Hours | Office Hours | 
+| <span style="color:Blue">Discussion Section</span>| <span style="color:Blue">Discussion Section</span>| | | |
+| Office Hours | | Office Hours | Office Hours | Office Hours | 
 | | | |<span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework N released</span> | 
 | |<span style="color:#c91d1d">**Lab N-1 due**</span>| | | <span style="color:#c91d1d">Lab N released</span>|
 
@@ -131,11 +131,11 @@ Live **discussion sections** are one hour long, and held on Tuesdays or Wednesda
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
 {: .important }
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to sign up for the first discussion (details will be released through Ed). Following the first discussion, students will be asked to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
 
 - **Graded Discussion Attendance Option:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
     - Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
-    - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or other extenuating circumstances. These drops are designed to account for unexpected events – you should not plan to use them.
+    - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events – you should not plan to use them.
 - **Ungraded Discussion Attendance Option:** Instead, the 5% discussion weight will be allocated to the homework portion of the course.
 
 Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
@@ -193,7 +193,7 @@ Course Communication:
     - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
+- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -202,16 +202,18 @@ Course Communication:
 
 | Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
 | --- | --- | --- | --- | --- | ---  |
-| Homeworks | 25% | 30% | 20%| 25%| No drop|
-| Projects | 10% | 10%| 10% | 10%| No drop|
+| Homeworks | 25% | 30% | 20% | 35% | No drop|
+| Projects | 10% | 10%| 10% | 20% | No drop|
 | Labs | 5% | 5% |  - |  5% | No drop|
 | Discussions | 5% | - | - | - | Drop 3 lowest scores|
-| Lecture Participation | 5% | 5% | 5% |5% | Drop 3 lowest scores|
-| Midterm Exam | 20% | 22.5% | 20%| 25%| |
-| Final Exam | 30% | 32.5% | 30% | - | |
-| Graduate Final Project| - | - | 15% | 30% | |
+| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores|
+| Midterm Exam | 20% | 20% | 20% | - | |
+| Final Exam | 30% | 30% | 30% | - | |
+| Graduate Final Project| - | - | 15% | 35% | |
 
-To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams. This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
+**To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
+
+**Data 200S students must achieve at least 50% in the Graduate Final Project to pass the course.**
 
 It is your responsibility to know if you are enrolled in Data 100 or Data 200 or Data 200S.
 
@@ -226,13 +228,11 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 Each student gets an extension budget of **12** total slip days. You can apply these slip days to homework and projects only (not labs) during the semester.
 
-Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope.
-Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations.
-Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. Note: If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
 ### Additional Accommodations
 
-We recognize that our students come from varied backgrounds and have widely-varying experiences. If you encounter extenuating circumstances at any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
+We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
 The **[Additional Accommodations Form](https://forms.gle/HYbsLwhtSvmsCefX9){:target="_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu). 
 
@@ -260,10 +260,10 @@ Students will be allowed to submit regrade requests for the autograded and writt
 
 Regrade requests will **not** be considered in cases in which:
 
-* a student uploads the incorrect file to the autograder.
-* the autograder fails to execute and the student does not notify the course staff _before the assignment deadline_.
-* a student fails to save their notebook before exporting and uploads an old version to the autograder.
-* a situation arises in which the course staff cannot ensure that the student’s work was done before the assignment deadline.
+* A student uploads the incorrect file to the autograder.
+* The autograder fails to execute and the student does not notify the course staff _before the assignment deadline_.
+* A student fails to save their notebook before exporting and uploads an old version to the autograder.
+* A situation arises in which the course staff cannot ensure that the student’s work was done before the assignment deadline.
 
 
 ### Collaboration Policy and Academic Honesty
@@ -289,7 +289,7 @@ Our [Resources](../resources) page lists not only course-specific academic resou
 
 ## We want you to succeed!
 
-If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Extenuating Circumstances Form. We know college can be stressful and we want to help you succeed.
+If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Additional Accommodations Form. We know college can be stressful and we want to help you succeed.
 
 {: .important }
 We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are [responsible employees](https://svsh.berkeley.edu/responsible-employee){:target="_blank"}, meaning that **we must disclose any incidents of sexual harassment or violence to campus authorities**. If you would like to speak to a confidential advocate, please consider reaching out to the [Berkeley PATH to Care Center](https://care.berkeley.edu/){:target="_blank"}.
