@@ -4,7 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-  edstem: #https://edstem.org/us/courses/33744/
+  edstem: https://edstem.org/us/courses/62812
   faq: https://ds100.org/faqs/fa24
 currWeekNumber: 1
 ---

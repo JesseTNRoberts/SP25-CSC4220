@@ -137,12 +137,16 @@ Live **discussion sections** are one hour long, and held on Tuesdays or Wednesda
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
 {: .important }
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion Attendance Option will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
 
-- **Graded Discussion Attendance Option:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
+If you are enrolled in Data 100, you have 2 options:
+- **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
     - Online sections are reserved for students with specific needs (e.g., DSP, Data 200S, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
     - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events – you should not plan to use them.
-- **Ungraded Discussion Attendance Option:** Instead, the 5% discussion weight will be allocated to the homework portion of the course.
+- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
+
+{: .note }
+> You can switch from the graded discussion option to the non-graded discussion option after [this form](https://forms.gle/aKnqPonoEEqkfdmn8){:target="_blank"} is due (August 30, 2024) and before **September 6, 2024**, so you are able to attend one discussion to gauge your interest. However, you cannot switch from graded to non-graded after **September 6, 2024**. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
 Students are not permitted to switch between the two grading schemes once  finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
 
