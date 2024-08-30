@@ -10,4 +10,5 @@ Aug 29
 
 Aug 30
 : **Lab 1**{: .label .label-lab } Prerequisite Coding (due Sep 3)
-: **Homework 1**{: .label .label-hw } Prerequisite Math (due Sep 5)
+: **Homework 1A**{: .label .label-hw } [Plotting and the Permutation Test](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main)  (due Sep 5)
+: **Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1UzbllKmayZjJIP_NeJNAvWYnXCZonAdY/view?usp=sharing) (due Sep 5)
