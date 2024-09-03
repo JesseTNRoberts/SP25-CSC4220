@@ -5,11 +5,13 @@ title: Week 2
 
 Sep 3
 : **Lecture 2**{: .label .label-lecture} Pandas I
+    : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Discussion 1**{: .label .label-disc } Prerequisites
 
 
 Sep 5
 : **Lecture 3**{: .label .label-lecture } Pandas II
+    : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 
 
 Sep 6
