@@ -7,6 +7,7 @@ Sep 3
 : **Lecture 2**{: .label .label-lecture} [Pandas I](lecture/lec02)
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1Z3U5wugtK6dubeWCPKWlM8A8ZCQAI65i/view?usp=sharing){:target="_blank"}
+    : [ Walkthrough](https://youtu.be/qXR-x19KT5w?si=rFeg-ZMmwieZQkml)
 
 
 Sep 5
