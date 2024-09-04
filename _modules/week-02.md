@@ -8,7 +8,7 @@ Sep 3
     : [Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)
 : **Lecture Participation 2**{: .label .label-survey } [Lecture Participation 2](https://app.sli.do/event/rz2UjFTFGifjJrwTeN4cao/embed/polls/334f8f5c-f8c2-42af-b2bf-490701b208d7)
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1Z3U5wugtK6dubeWCPKWlM8A8ZCQAI65i/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://youtu.be/qXR-x19KT5w?si=rFeg-ZMmwieZQkml)
+    : [Mini-Lecture](https://youtu.be/qXR-x19KT5w?si=rFeg-ZMmwieZQkml), [Solutions](https://drive.google.com/file/d/19SP9QZ8TGWlPGSaoA5mIeHFwhwlsi8Sg/view?usp=sharing)
 
 Sep 5
 : **Lecture 3**{: .label .label-lecture } Pandas II
