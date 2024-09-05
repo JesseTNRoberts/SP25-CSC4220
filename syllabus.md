@@ -136,6 +136,8 @@ Live **discussion sections** are one hour long, and held on Tuesdays or Wednesda
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet at [this Youtube playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfplNp0itu2QqVjoDE9u5iow){:target="_blank"}. Slides for the content review are linked [here](https://drive.google.com/drive/folders/1106WtH7rgzKBingzQzU4S-3G8iSt9tNu?usp=sharing){:target="_blank"}. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
+
 {: .important }
 > This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability. Please note that discussion attendance is not mandatory for students enrolled in Data 200 and Data 200S.
 
