@@ -13,6 +13,7 @@ Sep 3
 Sep 5
 : **Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
+: **Lecture Participation 3**{: .label .label-survey } [Lecture Participation 3](https://app.sli.do/event/caWSoD5WpVfambbzQEvc8F/embed/polls/d9c9ffa8-d7f1-4ab9-9293-80f2154b2fc2)
 
 
 Sep 6
