@@ -11,7 +11,7 @@ Sep 3
     : [Mini-Lecture](https://youtu.be/qXR-x19KT5w?si=rFeg-ZMmwieZQkml), [Solutions](https://drive.google.com/file/d/19SP9QZ8TGWlPGSaoA5mIeHFwhwlsi8Sg/view?usp=sharing)
 
 Sep 5
-: **Lecture 3**{: .label .label-lecture } Pandas II
+: **Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 
 
