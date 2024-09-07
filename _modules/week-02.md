@@ -17,6 +17,6 @@ Sep 5
 
 
 Sep 6
-: **Lab 2A**{: .label .label-lab } Pandas (due Sep 10)
+: **Lab 2A**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab02%2Flab02A.ipynb&branch=main) (due Sep 10)
 : **Homework 2A**{: .label .label-hw } Food Safety (due Sep 12)
 : **Drop Deadline (w/o fee)**{: .label .label-deadline } 11:59pm PT
