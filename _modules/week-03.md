@@ -4,11 +4,13 @@ title: Week 3
 
 Sep 10
 : **Lecture 4**{: .label .label-lecture } Pandas III
+    : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
 : **Discussion 2**{: .label .label-disc } Pandas I
 
 
 Sep 12
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
+    : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 
 
 Sep 13
