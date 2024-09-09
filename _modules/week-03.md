@@ -6,7 +6,7 @@ Sep 10
 : **Lecture 4**{: .label .label-lecture } Pandas III
     : [Note 4](https://ds100.org/course-notes/pandas_3/pandas_3.html)
 : **Discussion 2**{: .label .label-disc } Pandas I
-
+    : [Mini-Lecture](https://youtu.be/-E3j9AWkilI)
 
 Sep 12
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
