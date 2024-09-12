@@ -10,7 +10,7 @@ Sep 10
     : [Mini-Lecture](https://youtu.be/-E3j9AWkilI), [Solutions](https://drive.google.com/file/d/1h1XoYErOCiDs34-BZWEHmg0O2X3ZgzH3/view?usp=sharing), [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fdisc%2Fdisc02%2Fdisc02-worksheet-blank.ipynb&branch=main), [Groupwork Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fdisc%2Fdisc02%2Fdisc02_groupwork_blank.ipynb&branch=main)
 
 Sep 12
-: **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
+: **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 
 
