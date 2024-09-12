@@ -12,6 +12,7 @@ Sep 10
 Sep 12
 : **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
+: **Lecture Participation 5**{: .label .label-survey } [Lecture Participation 5](https://app.sli.do/event/wS4GJWTzozZxQDsEiavuK7/embed/polls/66201f51-73a4-4484-8e0b-d239674a6f84)
 
 
 Sep 13
