@@ -21,6 +21,6 @@ Sep 12
 
 
 Sep 13
-: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 17)
-: **Homework 2B**{: .label .label-hw } Food Safety II (due Sep 19)
+: **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab02B%2Flab02B.ipynb&branch=main) (due Sep 17)
+: **Homework 2B**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fhw%2Fhw02B%2Fhw02B.ipynb&branch=main) (due Sep 19)
 : **Add Deadline (w/o fee)**{: .label .label-deadline } 11:59pm PT
