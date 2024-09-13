@@ -16,4 +16,4 @@ Oct 24
 
 Oct 25
 : **Lab 8**{: .label .label-lab }  Model Selection (due Oct 29)
-: **Project A2**{: .label .label-hw } Housing II (due Oct 31)
+: **Project A2**{: .label .label-proj } Housing II (due Oct 31)

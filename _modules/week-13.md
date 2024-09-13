@@ -12,4 +12,4 @@ Nov 21
 
 
 Nov 22
-: **Project B2**{: .label .label-hw } Spam & Ham II (due Dec 5)
+: **Project B2**{: .label .label-proj } Spam & Ham II (due Dec 5)
