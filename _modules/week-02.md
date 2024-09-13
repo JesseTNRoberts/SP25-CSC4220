@@ -14,7 +14,8 @@ Sep 5
 : **Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 : **Lecture Participation 3**{: .label .label-survey } [Lecture Participation 3](https://app.sli.do/event/caWSoD5WpVfambbzQEvc8F/embed/polls/d9c9ffa8-d7f1-4ab9-9293-80f2154b2fc2)
-: **Exam Prep 1**{: .label .label-examprep } Pandas 
+: **Exam Prep 1**{: .label .label-examprep } [Pandas](https://drive.google.com/file/d/1dtjjozg411PsuP5VtRG3Y-VdArEgSczK/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1n06ZoqjmxDjq4LQywhueneeiGgR1SJav/view?usp=sharing){:target="_blank"}
 
 <!-- (https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1Bj_tu3TnI9aCg1SjHsKENw6ACxx4Gthm/view?usp=sharing), [Video](https://youtu.be/RXnpP7rkTUE) -->

@@ -13,7 +13,8 @@ Sep 12
 : **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
     : [Note 5](https://ds100.org/course-notes/eda/eda.html)
 : **Lecture Participation 5**{: .label .label-survey } [Lecture Participation 5](https://app.sli.do/event/wS4GJWTzozZxQDsEiavuK7/embed/polls/66201f51-73a4-4484-8e0b-d239674a6f84)
-: **Exam Prep 2**{: .label .label-examprep } Pandas and EDA
+: **Exam Prep 2**{: .label .label-examprep } [Pandas and EDA](https://drive.google.com/file/d/1ZaFC_G8TMFofVW487ckKA_8c6XOVuU3n/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1HCffs1nvzSc7c0Hpp3aUtgZZAN3q2k6X/view?usp=sharing){:target="_blank"}
 
 <!-- (https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
     : [Solution](https://drive.google.com/file/d/1Bj_tu3TnI9aCg1SjHsKENw6ACxx4Gthm/view?usp=sharing), [Video](https://youtu.be/RXnpP7rkTUE) -->
