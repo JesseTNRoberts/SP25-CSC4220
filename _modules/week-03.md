@@ -16,10 +16,6 @@ Sep 12
 : **Exam Prep 2**{: .label .label-examprep } [Pandas and EDA](https://drive.google.com/file/d/1ZaFC_G8TMFofVW487ckKA_8c6XOVuU3n/view?usp=sharing){:target="_blank"}
     : [Solutions](https://drive.google.com/file/d/1HCffs1nvzSc7c0Hpp3aUtgZZAN3q2k6X/view?usp=sharing){:target="_blank"}
 
-<!-- (https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/1Bj_tu3TnI9aCg1SjHsKENw6ACxx4Gthm/view?usp=sharing), [Video](https://youtu.be/RXnpP7rkTUE) -->
-
-
 
 Sep 13
 : **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab02B%2Flab02B.ipynb&branch=main) (due Sep 17)

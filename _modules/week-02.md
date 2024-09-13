@@ -17,9 +17,6 @@ Sep 5
 : **Exam Prep 1**{: .label .label-examprep } [Pandas](https://drive.google.com/file/d/1dtjjozg411PsuP5VtRG3Y-VdArEgSczK/view?usp=sharing){:target="_blank"}
     : [Solutions](https://drive.google.com/file/d/1n06ZoqjmxDjq4LQywhueneeiGgR1SJav/view?usp=sharing){:target="_blank"}
 
-<!-- (https://drive.google.com/file/d/1zvNyfBcksKIRpuLG1aoyCW3PIAYSaW3v/view?usp=sharing)
-    : [Solution](https://drive.google.com/file/d/1Bj_tu3TnI9aCg1SjHsKENw6ACxx4Gthm/view?usp=sharing), [Video](https://youtu.be/RXnpP7rkTUE) -->
-
 
 Sep 6
 : **Lab 2A**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab02%2Flab02A.ipynb&branch=main) (due Sep 10)
