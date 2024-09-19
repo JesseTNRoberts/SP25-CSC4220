@@ -11,7 +11,7 @@ Sep 17
 
 
 Sep 19
-: **Lecture 7**{: .label .label-lecture} Visualization I
+: **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 
 
