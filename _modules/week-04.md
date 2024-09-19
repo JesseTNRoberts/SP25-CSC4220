@@ -13,7 +13,7 @@ Sep 17
 Sep 19
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
-
+: **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/4PCmeWwgpDsW9Xw3AK9ZNY/embed/polls/23a5fd57-5b6c-409d-adef-3e493c2cbe5e){:target="_blank"}
 
 Sep 20
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Sep 24)
