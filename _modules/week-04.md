@@ -14,6 +14,8 @@ Sep 19
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
     : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 : **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/4PCmeWwgpDsW9Xw3AK9ZNY/embed/polls/23a5fd57-5b6c-409d-adef-3e493c2cbe5e){:target="_blank"}
+: **Exam Prep 3**{: .label .label-examprep } [RegEx](https://drive.google.com/file/d/1jCgdlt_lQZ-0BWcQmvvmOAPNhZ4pqND2/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1STSj_ti-Ai169Zng-vA-Q0ZwQ6JGm-DM/view?usp=sharing){:target="_blank"}
 
 Sep 20
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Sep 24)
