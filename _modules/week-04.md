@@ -18,6 +18,6 @@ Sep 19
     : [Solutions](https://drive.google.com/file/d/1STSj_ti-Ai169Zng-vA-Q0ZwQ6JGm-DM/view?usp=sharing){:target="_blank"}
 
 Sep 20
-: **Lab 3**{: .label .label-lab } Regex, EDA (due Sep 24)
+: **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Sep 24)
 : **Homework 3**{: .label .label-hw } Tweets (due Sep 26)
 : **Drop Deadline (with fee)**{: .label .label-deadline } 11:59pm PT
