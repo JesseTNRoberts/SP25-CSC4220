@@ -19,5 +19,5 @@ Sep 19
 
 Sep 20
 : **Lab 3**{: .label .label-lab } [Regex, EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Sep 24)
-: **Homework 3**{: .label .label-hw } Tweets (due Sep 26)
+: **Homework 3**{: .label .label-hw } [Text Analysis of Bloomberg Articles](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fhw%2Fhw03%2Fhw03_apple.ipynb&branch=main) (due Sep 26)
 : **Drop Deadline (with fee)**{: .label .label-deadline } 11:59pm PT
