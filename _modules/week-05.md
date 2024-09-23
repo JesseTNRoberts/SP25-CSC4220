@@ -4,7 +4,8 @@ title: Week 5
 
 Sep 24
 : **Lecture 8**{: .label .label-lecture} Visualization II
-: **Discussion 4**{: .label .label-disc } Regex, Visualization, and Transformation
+: **Discussion 4**{: .label .label-disc } [Regex, Visualization, and Transformation](https://drive.google.com/file/d/1shKD3YTk6-pRgMvNMfAn-d6U-X1x4VzH/view?usp=sharing){:target="_blank"}
+
 
 
 Sep 26
