@@ -13,7 +13,7 @@ Sep 24
 Sep 26
 : **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
     : [Note 9](https://ds100.org/course-notes/sampling/sampling.html)
-
+: **Lecture Participation 9**{: .label .label-survey } [Lecture Participation 9](https://app.sli.do/event/jrEmuDotXRJYPW6E5Wbtjw/embed/polls/b3730996-b9fb-4a9e-831b-6f1b7e800939){:target="_blank"}
 
 Sep 27
 : **Lab 4**{: .label .label-lab } Transformations (due Oct 1)
