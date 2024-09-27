@@ -14,6 +14,8 @@ Sep 26
 : **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
     : [Note 9](https://ds100.org/course-notes/sampling/sampling.html)
 : **Lecture Participation 9**{: .label .label-survey } [Lecture Participation 9](https://app.sli.do/event/jrEmuDotXRJYPW6E5Wbtjw/embed/polls/b3730996-b9fb-4a9e-831b-6f1b7e800939){:target="_blank"}
+: **Exam Prep 4**{: .label .label-examprep } [Data Visualization](https://drive.google.com/file/d/13DZHVg6_r2ypk-nouYRpKcCgngoiuzAt/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1k2aXbkcPM-sndQqgdXucYpp13JUUDCyr/view?usp=sharing){:target="_blank"}
 
 Sep 27
 : **Lab 4**{: .label .label-lab } Transformations (due Oct 1)
