@@ -7,7 +7,7 @@ Sep 24
     : [Note 8](https://ds100.org/course-notes/visualization_2/visualization_2.html)
 : **Lecture Participation 8**{: .label .label-survey } [Lecture Participation 8](https://app.sli.do/event/65j7R4S7tqxuTULV411y4U/embed/polls/f512e7d0-56e1-4e07-93fd-e5321077cbaf){:target="_blank"}
 : **Discussion 4**{: .label .label-disc } [Regex, Visualization, and Transformation](https://drive.google.com/file/d/1shKD3YTk6-pRgMvNMfAn-d6U-X1x4VzH/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://www.youtube.com/watch?v=r7lxybfJK5c&list=PLQCcNQgUcDfplNp0itu2QqVjoDE9u5iow&index=5){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1PHr5m-_w3OhsypuUb_zUfp6xqlAvUKgR/view?usp=sharing){:target="_blank"}
+    : [Mini-Lecture](https://www.youtube.com/watch?v=r7lxybfJK5c&list=PLQCcNQgUcDfplNp0itu2QqVjoDE9u5iow&index=5){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1PHr5m-_w3OhsypuUb_zUfp6xqlAvUKgR/view?usp=sharing){:target="_blank"}, [Walkthrough](https://drive.google.com/file/d/136k4oh2jl5Qs9BgvrPJiTvSR7v2GE4NV/view?usp=sharing)
 
 
 Sep 26
