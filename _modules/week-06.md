@@ -4,7 +4,7 @@ title: Week 6
 
 Oct 1
 : **Lecture 10**{: .label .label-lecture} Modeling, SLR
-: **Discussion 5**{: .label .label-disc } Probability, Sampling, and Visualization
+: **Discussion 5**{: .label .label-disc } [Probability, Sampling, and Visualization](https://drive.google.com/file/d/1c-xl-BIEGyWwv3OwMmKSZ93rX1JTvKK-/view?usp=sharing){:target="_blank"}
 
 Oct 3
 : **Lecture 11**{: .label .label-lecture} Constant model, Loss, and Transformations
