@@ -12,4 +12,4 @@ Oct 10
 
 Oct 11
 : **Lab 6**{: .label .label-lab }  OLS (due Oct 15)
-: **Project A1**{: .label .label-proj } Housing I (due Oct 24)
+: **Homework 5B**{: .label .label-hw } OLS (due Oct 17)

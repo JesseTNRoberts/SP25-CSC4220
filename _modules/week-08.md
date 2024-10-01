@@ -12,3 +12,4 @@ Oct 17
 
 Oct 18
 : **Lab 7**{: .label .label-lab }  Gradient descent and Sklearn (due Oct 22)
+: **Project A1**{: .label .label-proj } Housing I (due Oct 24)
