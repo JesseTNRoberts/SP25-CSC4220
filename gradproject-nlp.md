@@ -64,7 +64,7 @@ During EDA, you have to analyze the dataset to uncover patterns and insights. Fo
 
 You can get started with the following starter notebook for EDA: [`nlp-eda-starter.ipynb`](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fgrad-proj%2Fnlp-chatbot-analysis%2Fnlp-eda-starter.ipynb&branch=main).
 
-See below in the description for Milestone 2 for detailed instructions for the report.
+See below in the description for [Milestone 2](#milestone-2-eda) for detailed instructions for the report.
 
 ### Project Tasks
 
@@ -110,6 +110,8 @@ The first deliverable of your group project is just to form your group, choose a
 The rubric for this milestone is as follows:
 - Short paragraph description of implementation plan and timeline (2%).
 - Forming teams by the deadline (3%).
+
+<a name = 'milestone-2-eda'></a>
 
 ### Milestone 2: EDA + Internal Peer Review (10%) - October 25, 2024
 
@@ -179,6 +181,8 @@ The first draft of your final report, please see below for more information on w
 
 Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video and test set performance components for milestone 5, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
+Submit to the [first draft project report assignment](https://www.gradescope.com/courses/827978/assignments/5045727/) on Gradescope by **11:59pm on December 2**.
+
 ### Milestone 6: External Peer Review (7.5%) - December 6, 2024
 
 Each student will peer review a project from another group; each student will be graded separately based on the feedback they provide in their review. Each review should include the following components:
@@ -197,6 +201,8 @@ Each student will peer review a project from another group; each student will be
 - Discussion (does the report effectively discuss the limitations of the methods used and the implications of the results?)
 
 The external peer review is also a great chance to learn from other people's work and reflect on your own work.
+
+<a name = 'final-project-report'></a>
 
 ## Final Project Report (50%) - December 13, 2024
 
