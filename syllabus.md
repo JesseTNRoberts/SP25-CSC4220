@@ -280,7 +280,7 @@ Students will be allowed to submit regrade requests for the autograded and writt
 Regrade requests will **not** be considered in cases in which:
 
 * A student uploads the incorrect file to the autograder.
-* The autograder fails to execute and the student does not notify the course staff _before the assignment deadline_.
+* The autograder fails to execute and the student does not notify the course staff _before the regrade request window closes_.
 * A student fails to save their notebook before exporting and uploads an old version to the autograder.
 * A situation arises in which the course staff cannot ensure that the student’s work was done before the assignment deadline.
 
