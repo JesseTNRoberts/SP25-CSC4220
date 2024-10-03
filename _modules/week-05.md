@@ -15,7 +15,7 @@ Sep 26
     : [Note 9](https://ds100.org/course-notes/sampling/sampling.html)
 : **Lecture Participation 9**{: .label .label-survey } [Lecture Participation 9](https://app.sli.do/event/jrEmuDotXRJYPW6E5Wbtjw/embed/polls/b3730996-b9fb-4a9e-831b-6f1b7e800939){:target="_blank"}
 : **Exam Prep 4**{: .label .label-examprep } [Data Visualization](https://drive.google.com/file/d/13DZHVg6_r2ypk-nouYRpKcCgngoiuzAt/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1k2aXbkcPM-sndQqgdXucYpp13JUUDCyr/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1k2aXbkcPM-sndQqgdXucYpp13JUUDCyr/view?usp=sharing), [Walkthrough](https://www.youtube.com/watch?v=KVUvj5yAXt8&list=PLQCcNQgUcDfp9alGSVc_anQKPSLA5H2S_&index=1&t=33s&pp=iAQB){:target="_blank"}
 
 Sep 27
 : **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due Oct 1)
