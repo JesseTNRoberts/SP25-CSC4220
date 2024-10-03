@@ -10,7 +10,7 @@ Oct 1
     : [Mini-Lecture](https://youtu.be/-KLgs84P4AE){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1HmMZ-2hA9WjIIB4UBx_p8vgjQ77vVire/view?usp=sharing){:target='_blank'}
 
 Oct 3
-: **Lecture 11**{: .label .label-lecture} Constant model, Loss, and Transformations
+: **Lecture 11**{: .label .label-lecture} [Constant model, Loss, and Transformations](lecture/lec11)
 
 
 Oct 4
