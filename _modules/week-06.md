@@ -11,6 +11,7 @@ Oct 1
 
 Oct 3
 : **Lecture 11**{: .label .label-lecture} [Constant model, Loss, and Transformations](lecture/lec11)
+    : [Note 11](https://ds100.org/course-notes/constant_model_loss_transformations/loss_transformations.html)
 : **Lecture Participation 11**{: .label .label-survey } [Lecture Participation 11](https://app.sli.do/event/2A2vDTB7XiFBa2cGvau4fH/embed/polls/78de1ace-4f47-4efc-88aa-3ba4147128f1){:target="_blank"}
 
 
