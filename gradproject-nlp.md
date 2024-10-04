@@ -284,7 +284,7 @@ The test sets for both tasks are named as follows:
 2. `arena-validation-set-prompts-embeddings.npy`
 3. `arena-validation-set-topic-modeling.jsonl.gz`
 
-All files are located in `shared/fa24_grad_project_data/nlp-arena-data` directory on Data 100 Datahub.
+All files are located in `data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data/validation-set` directory on Data 100 Datahub.
 
 Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to the Gradescope assignment (assignment link coming soon).
 
