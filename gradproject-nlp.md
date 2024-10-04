@@ -103,9 +103,9 @@ Predict the difficulty of a question, ranging from 1 to 10, using the available 
 
 ## Milestone Descriptions
 
-### Milestone 1: Group Formation + Research Proposal (5%) - October 11, 2024
+### Milestone 1: Group Formation + Research Proposal (5%) - October 14, 2024
 
-The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [this Google form](https://forms.gle/5FHyda3m7J4Dbu58A){:target="_blank"} by **11:59 pm on October 11**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
+The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [this Google form](https://forms.gle/5FHyda3m7J4Dbu58A){:target="_blank"} by **11:59 pm on October 14**. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
 
 The rubric for this milestone is as follows:
 - Short paragraph description of implementation plan and timeline (2%).
