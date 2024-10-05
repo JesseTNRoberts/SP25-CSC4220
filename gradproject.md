@@ -17,6 +17,7 @@ The graduate project is **offered only to students enrolled in Data C200, CS C20
 
 The purpose of the project is to give students experience in both open-ended data science analysis and research in general.
 
+<<<<<<< HEAD
 ## Deliverables
 
 The graduate project element will require the following deliverables:
@@ -30,12 +31,15 @@ The graduate project element will require the following deliverables:
 - **Final Project Report:** Submit the final project report, including all necessary code. Ensure all relevant feedback from the first draft and external peer reviews are incorporated. Additionally, you are required to submit your test set results and make a brief 5-minute YouTube video recording of the project.
 
 
+=======
+>>>>>>> 2e9d3ec89e76f94c79da533e5a30e04437c6263b
 ### Teamwork
 
 **You must work in groups of two or three students.** In order to give everyone experience in collaborating on a data science project, individual projects are not allowed. Everyone in the same group will receive the same grade (except for exceptional circumstances).
 
-## Timeline and Grading Breakdown
+## Milestones and Grading Breakdown
 
+<<<<<<< HEAD
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
 | 10/14                           | Group Formation + Research Proposal | [Group Formation + Research Proposal Form](https://forms.gle/BciHSskLdmGrX6ZXA){:target="_blank"} | 5%             |
@@ -45,23 +49,39 @@ The graduate project element will require the following deliverables:
 | 12/2                         | Project Report First Draft       |                                                                | 18%           |
 | 12/6                          | External Peer Review                   |                                                                | 7.5%           |
 | 12/13                           | Final Project Report                   |                                                                | 50%            |
+=======
+| Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
+| ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
+| Milestone 1 | October 14 | Group Formation + Research Proposal | Project Proposal Form | [Google Form](https://forms.gle/BciHSskLdmGrX6ZXA){:target="_blank"} | 5% |
+| Milestone 2 | October 28 | EDA + Internal Peer Review 1 | EDA Write-Up + Notebook, Internal Peer Review 1 | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045703/){:target="_blank"} <br> [Google Form](https://forms.gle/rmuKg9hG57Y8w6P7A){:target="_blank"} | 10% |
+| Milestone 3 | November 8 | Mandatory Check-In | One-Page Progress Report | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045723){:target="_blank"} | 7.5% |
+| Milestone 4 | November 22 | Internal Peer Review 2 | Second Internal Peer Review | [Google Form](https://forms.gle/Gr3WwdvFXpjxnEqHA){:target="_blank"} | 2% |
+| Milestone 5 | December 2 | Project Report First Draft | Final Report Draft Write-Up + Notebook | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045727){:target="_blank"} | 18% |
+| Milestone 6 | December 6 | External Peer-Review | External Peer Review | OpenReview | 7.5% |
+| Final Submission | December 13 | Final Project Report | Final Project Report + Presentation Video | [Final Report Gradescope](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} <br> CV Predictions Gradescope <br> NLP Predictions Gradescope | 50% |
+
+For each milestone listed above, detailed expectations can be found in the "Milestone" section under each of the project topics (Computer Vision or Natural Language Processing) which is explained above. Please refer to these sections for specific requirements and guidelines related to your chosen project topic.
+>>>>>>> 2e9d3ec89e76f94c79da533e5a30e04437c6263b
 
 ### Late Policy
-- **No Extensions for First Draft**: The first draft cannot be submitted late as it is crucial for the peer review process.
+- **No Extensions for Milestones**: Must be submitted on time; no extensions are permitted. Milestones cannot be submitted late as they are crucial for the peer review process.
 - **Final Report and Presentation Video**: Late submissions incur a 10% daily penalty, up to a maximum of two days. Submissions are rounded to the nearest day (e.g., 2 minutes late counts as 1 day late).
-- **Peer Reviews and Other Deliverables**: Must be submitted on time; no extensions are permitted.
 
-## Datasets
+## Accessing Datasets
 
-Please choose one of the following datasets to work on. **You will be expected to complete all (2) tasks provided for your chosen dataset.**
+All of the provided datasets can be found in the Datahub directory `data100-shared-readwrite/fa24_grad_project_data`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-clicking on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
 
-### Accessing Datasets
+## Project Topics
 
+<<<<<<< HEAD
 All of the provided datasets can be found in the Datahub directory `/data100-shared-readwrite/fa24_grad_project_data`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-click on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
+=======
+Please choose one of the following projects (CV or NLP) and its associated datasets to work on. You will be expected to complete all (2) tasks provided for your chosen dataset. Click the below links to go to the project description pages.
+>>>>>>> 2e9d3ec89e76f94c79da533e5a30e04437c6263b
 
-### Topic 1: Computer Vision
-In disaster situations, it is important for emergency response efforts to have access to quick and accurate information about an area in order to respond effectively. This project will explore how data science techniques can be useful for such efforts.
+[Project 1: Computer Vision](/fa24/gradproject-cv){:target="_blank"}
 
+<<<<<<< HEAD
 #### Project Goals
 {:.no_toc}
 - Learn to work with image data by learning to use common feature extraction techniques like Sobel edge filtering.
@@ -466,3 +486,6 @@ For both projects, the maximum for each task is 5 points; please see the thresho
 | Task B (MSE)      | 2.78      |   3    |
 |                   | 2.64       |   4    |
 |                   | 2.5       |   5    | 
+=======
+[Project 2: Natural Language Processing](/fa24/gradproject-nlp){:target="_blank"}
+>>>>>>> 2e9d3ec89e76f94c79da533e5a30e04437c6263b
