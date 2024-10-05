@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Graduate Project
 nav_order: 3
@@ -21,12 +21,12 @@ The purpose of the project is to give students experience in both open-ended dat
 
 The graduate project element will require the following deliverables:
 
-- **Group Formation + Research Proposal:** You will form a project group and submit a google form stating your intended topic and a brief implementation plan. Please see [below](#group-formation--research-proposal) for more information.
-- **Checkpoint 1: EDA + Internal Peer Review 1:** Submit a write-up and code for Exploratory Data Analysis on your dataset. Additionally, submit an internal peer review. More information [below](#checkpoint-1-eda--internal-peer-review).
-- **Checkpoint 2: Mandatory Check-In:** Write a one-pager of your progress, focusing on the modeling approaches your team explored, and review it with a course staff member. Further details [below](#checkpoint-2-mandatory-check-in).
-- **Internal Peer Review 2:** Submit the second internal peer review form.
-- **Project Report First Draft:** Submit the first draft of your report, detailing your EDA and modeling efforts, along with any necessary code.
-- **External Peer-Review:** Provide feedback on other teams' work.
+- **Milestone 1: Group Formation + Research Proposal:** You will form a project group and submit a google form stating your intended topic and a brief implementation plan. Please see [below](#group-formation--research-proposal) for more information.
+- **Milestone 2: EDA + Internal Peer Review 1:** Submit a write-up and code for Exploratory Data Analysis on your dataset. Additionally, submit an internal peer review. More information [below](#checkpoint-1-eda--internal-peer-review).
+- **Milestone 3: Mandatory Check-In:** Write a one-pager of your progress, focusing on the modeling approaches your team explored, and review it with a course staff member. Further details [below](#checkpoint-2-mandatory-check-in).
+- **Milestone 4: Internal Peer Review 2:** Submit the second internal peer review form.
+- **Milestone 5: Project Report First Draft:** Submit the first draft of your report, detailing your EDA and modeling efforts, along with any necessary code.
+- **Milestone 6: External Peer-Review:** Provide feedback on other teams' work.
 - **Final Project Report:** Submit the final project report, including all necessary code. Ensure all relevant feedback from the first draft and external peer reviews are incorporated. Additionally, you are required to submit your test set results and make a brief 5-minute YouTube video recording of the project.
 
 
@@ -38,13 +38,13 @@ The graduate project element will require the following deliverables:
 
 | Deadline (at 11:59 PM Pacific) | Event / Deliverable                        | Link                                                           | Grading Weight |
 |--------------------------------|--------------------------------------------|----------------------------------------------------------------|----------------|
-| 3/15                           | [Research Proposal and Project Groups](https://www.gradescope.com/courses/696886/assignments/4322203){:target="_blank"}   | [Proposal Form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"}             | 5%             |
-| 3/22 ([3/24 Extension](https://edstem.org/us/courses/51810/discussion/4604306){:target="_blank"})                           | [Checkpoint 1: EDA](https://www.gradescope.com/courses/696886/assignments/4247160){:target="_blank"} + [Internal Peer Review 1](https://www.gradescope.com/courses/696886/assignments/4327698){:target="_blank"} |  [Internal Peer Review Form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}   | 10%            |
-| Week of 4/8                    | [Checkpoint 2: Mandatory Check-in with TA](https://www.gradescope.com/courses/696886/assignments/4312054){:target="_blank"}   |                                                                | 7.5%           |
-| 4/19 (4/28 Extension)                           | Internal Peer Review 2                 |   [Internal Peer Review Form](https://forms.gle/XpYfvoMrNHBq8cFy7){:target="_blank"}                                                             | 2%            |
-| 4/26 (4/28 Extension)                           | First Draft of Final Report ([write-up](https://www.gradescope.com/courses/696886/assignments/4390926){:target="_blank"}, [coding](https://www.gradescope.com/courses/696886/assignments/4390929){:target="_blank"})            |                                                                | 18%           |
-| 5/3 (5/4 Extension)                            | External Peer Review Due                   |                                                                | 7.5%           |
-| 5/10                           | Final Project Report and Presentation Video|                                                                | 50%            |
+| 10/14                           | Group Formation + Research Proposal | [Group Formation + Research Proposal Form](https://forms.gle/BciHSskLdmGrX6ZXA){:target="_blank"} | 5%             |
+| 10/28                           | EDA + Internal Peer Review               |                 | 10%            |
+| 11/8                    | Checkpoint 2: Mandatory Check-in   |                                                                | 7.5%           |
+| 11/22                       | Internal Peer Review 2                 |                                                             | 2%            |
+| 12/2                         | Project Report First Draft       |                                                                | 18%           |
+| 12/6                          | External Peer Review                   |                                                                | 7.5%           |
+| 12/13                           | Final Project Report                   |                                                                | 50%            |
 
 ### Late Policy
 - **No Extensions for First Draft**: The first draft cannot be submitted late as it is crucial for the peer review process.
@@ -57,7 +57,7 @@ Please choose one of the following datasets to work on. **You will be expected t
 
 ### Accessing Datasets
 
-All of the provided datasets can be found in the Datahub directory `shared/sp24_grad_project_data`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-click on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
+All of the provided datasets can be found in the Datahub directory `/data100-shared-readwrite/fa24_grad_project_data`. You can access the data directly from Datahub. If you wish to work on the project locally, you can also download the files containing the datasets for each topic by right-click on the file in JupyterLab and select "Copy Download Link". If you choose to train more complex models, DataHub might not have enough hardware resources or memory, in which case you can use [Google Colab](https://colab.google/){:target="_blank"} or your local machine. If you would like to use Google Colab, feel free to check out this [link](https://stackoverflow.com/questions/48376580/how-to-read-data-in-google-colab-from-my-google-drive){:target="_blank"} to get started.
 
 ### Topic 1: Computer Vision
 In disaster situations, it is important for emergency response efforts to have access to quick and accurate information about an area in order to respond effectively. This project will explore how data science techniques can be useful for such efforts.
@@ -225,11 +225,11 @@ Additionally, here are some example questions about the project that you are wel
 
 - [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"} is a wonderful library containing classifical NLP tasks like tokenization, lemmatization, etc.
 
-## Group Formation + Research Proposal
+## Milestone 1: Group Formation + Research Proposal
 
-The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [this google form](https://forms.gle/DcBp3ZbM8TpTfSRD6){:target="_blank"} by 11:59 pm on 3/15. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
+The first deliverable of your group project is just to form your group, choose a dataset, and submit your implementation plan to [this google form](https://forms.gle/BciHSskLdmGrX6ZXA){:target="_blank"} by 11:59 pm on 10/14. The implementation plan should consist of a series of steps for completing the project along with a timeline. You may form groups of 2 or 3 people with any Data 200/200A/200S student.
 
-## Checkpoint 1: EDA + Internal Peer Review
+## Milestone 2: EDA + Internal Peer Review
 
 The checkpoint is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your submission should include:
 
@@ -264,9 +264,9 @@ Concretely, here are the minimal requirements for EDA for each project. Using yo
   - (Open-ended) Visualize the "variance" in model performance (see [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) for an example).
   - (Open-ended) Explore the prompt topics in the dataset (topic modeling).
 
-Every member of the group also needs to submit the internal peer review [form](https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"} for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
+Every member of the group also needs to submit the internal peer review form<!-- (https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  --> for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
 
-## Checkpoint 2: Mandatory Check-In
+## Milestone 3: Mandatory Check-In
 
 The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in approximately two weeks time. You will be required to make a document summarizing all of your progress so far, including your EDA and modeling results. You will be required to submit the report to Gradescope before the meeting. The staff member will skim the report before the meeting and give you guidance on the project as a whole.
 
@@ -280,9 +280,17 @@ For the check-in we would like for you to prepare brief answers to the following
 - How would you improve your model based on the outcome?
 - Are there any further extensions to your model that would be worth exploring?
 
-## Checkpoint 3: Project Report First Draft + Internal Peer Review
+## Milestone 4: Internal Peer Review
 
-The first draft of your final report, please see below for more information on what you should aim to submit. You do not need to submit the video and test set performance components for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
+Every member of the group needs to submit the internal peer review form<!-- (https://forms.gle/NgERYS9bd1U29Xur5){:target="_blank"}  --> for this checkpoint. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
+
+## Milestone 5: Project Report First Draft
+
+The first draft of your final report, please see below for more information on what you should aim to submit. You do not need to submit the video and test set performance components, but you are expected to submit a comprehensive written report that summarizes your analysis.
+
+## Milestone 6: External Peer Review
+
+You will be providing feedback on other teams’ work through an external peer review form for this checkpoint.
 
 ## Final Project Report
 The project submission should include the following four components:
@@ -310,7 +318,7 @@ This is a single PDF that summarizes your workflow and what you have learned. It
 
 Specifically, you should ensure you address the following in the narrative:
 
-<!-- * Clearly state the research questions and why they are interesting and important. 
+* Clearly state the research questions and why they are interesting and important. 
 * Introduction: ensure you include a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. You must cite all the references you discuss in this section.
 * Description of data: ensure you outline the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
 * Methodology: carefully describe the methods/models you use and why they are appropriate for answering your research questions. You must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation. You may also include interesting findings involving your datasets.
@@ -339,15 +347,17 @@ This component of the final report will be graded based on your models' performa
 
 #### **Topic 1 (CV)**
 
-`test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in `shared/sp24_grad_project_data/satellite-image-data` directory on Data 100 Datahub.
+`test_images_flooding-fire.npz` is the test for Task A and `test_images_hurricane-matthew.npz` is the test set for Task B; both files are located in `data100-shared-readwrite/fa24_grad_project_data/satellite-image-data` directory on Data 100 Datahub.
 
-Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to [this](https://www.gradescope.com/courses/696886/assignments/4365006){:target="_blank"} Gradescope assignment. Each CSV should only contain one column named `pred`.
+Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, and `test_images_hurricane-matthew_predictions.csv` to the corresponding <!-- [this](https://www.gradescope.com/courses/696886/assignments/4365006){:target="_blank"} --> Gradescope assignment. Each CSV should only contain one column named `pred`.
 
 #### **Topic 2 (NLP)**
 
-Here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `shared/sp24_grad_project_data/nlp-arena-data` directory on Data 100 Datahub.
+<!-- NEEDS CHANGING -->
 
-Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to [this](https://www.gradescope.com/courses/696886/assignments/4364990){:target="_blank"} Gradescope assignment.
+Here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data` directory on Data 100 Datahub.
+
+Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to the relevant<!-- [this](https://www.gradescope.com/courses/696886/assignments/4364990){:target="_blank"} --> Gradescope assignment.
 
 ### [Component 4] Video Recording (10%)
 
@@ -356,30 +366,30 @@ The presentation video should provide an overview of your project, highlighting 
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
 
-### Group formation + Research Proposal (5%)
+### Milestone 1: Group formation + Research Proposal (5%)
 - Short paragraph description of implementation plan and timeline (2%).
 - Forming teams by the deadline (3%).
 
-### Checkpoint 1: EDA + Internal Peer Review (10%)
+### Milestone 2: EDA + Internal Peer Review (10%)
 - Data Sampling and Collection (0.5%).
 - Data Cleaning (3%).
 - Exploratory Data Analysis (3%).
 - Figures (tables, plots, etc.) (3%).
 - Internal Peer Review (0.5%).
 
-### Checkpoint 2: Mandatory Check-In (7.5%)
+### Milestone 3: Mandatory Check-In (7.5%)
 - Exploratory Data Analysis (1.5%).
 - Feature Engineering (2%).
 - Modelling Approaches (3%).
 - Preliminary Results (1%).
 
-### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
-Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video and test set performance components for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
-
+### Milestone 4: Internal Peer Review (2%)
 The internal peer review is a simple google form checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.
 
-### External Peer Review (7.5%)
+### Milestone 5: Project Report First Draft (18%)
+Please refer to the section on the [Final Project Report](#final-project-report) for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we’re still looking for largely the same elements. You do not need to submit the video and test set performance components for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
+### External Peer Review (7.5%)
 Each student will peer review a project from another group; each student will be graded separately based on the feedback they provide in their review. The review will be graded by staff out of a total of 5 points. Each review should include the following components:
 
 1. (1.5%) A summary of the report. The summary should address at least the following:
@@ -450,4 +460,3 @@ For both projects, the maximum for each task is 5 points; please see the thresho
 | Task B (MSE)      | 2.78      |   3    |
 |                   | 2.64       |   4    |
 |                   | 2.5       |   5    | 
--->
