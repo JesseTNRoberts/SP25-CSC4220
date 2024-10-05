@@ -280,9 +280,11 @@ This component of the final report will be graded based on your models' performa
 
 The test sets for both tasks are named as follows:
 
-1. `arena-validation-set-prompt-only.jsonl.gz`
+1. `arena-validation-set-prompt-and-responses.jsonl.gz`
 2. `arena-validation-set-prompts-embeddings.npy`
-3. `arena-validation-set-topic-modeling.jsonl.gz`
+3. `arena-validation-set-model_a_response-embeddings.npy`
+4. `arena-validation-set-model_b_response-embeddings.npy`
+5. `arena-validation-set-topic-modeling.jsonl.gz`
 
 All files are located in `data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data/validation-set` directory on Data 100 Datahub.
 
