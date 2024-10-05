@@ -353,9 +353,15 @@ Please submit two CSV files named `test_images_flooding-fire_predictions.csv`, a
 
 #### **Topic 2 (NLP)**
 
-<!-- NEEDS CHANGING -->
+Here are the test sets for both tasks:
+`arena-validation-set-prompt-and-responses.jsonl.gz`
+`arena-validation-set-prompts-embeddings.npy`
+`arena-validation-set-model_a_response-embeddings.npy`
+`arena-validation-set-model_b_response-embeddings.npy`
+`arena-validation-set-topic-modeling.jsonl.gz`
+All files are located in the `./validation-set` directory on Data 100 Datahub.
 
-Here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data` directory on Data 100 Datahub.
+<!-- Here are the test sets for both tasks - `arena-validation-set-prompt-only.jsonl.gz`, `arena-validation-set-prompts-embeddings.npy`, and `arena-validation-set-topic-modeling.jsonl.gz`; all files are located in `data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data` directory on Data 100 Datahub. -->
 
 Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to the relevant<!-- [this](https://www.gradescope.com/courses/696886/assignments/4364990){:target="_blank"} --> Gradescope assignment.
 
