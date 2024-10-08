@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 8
-: **Lecture 12**{: .label .label-lecture} OLS (Multiple Regression)
+: **Lecture 12**{: .label .label-lecture} [OLS (Multiple Regression)](lecture/lec12)
 : **Discussion 6**{: .label .label-disc } [Models](https://drive.google.com/file/d/1GSMZuoESAOvzWL824D9oto_NhCFg9AvJ/view?usp=sharing){:target="_blank"}
 
 Oct 10
