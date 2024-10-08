@@ -1,6 +1,6 @@
 ---
 name: Xiaorui Liu
-role: UCS2
+role: Lead Teaching Assistant
 email: xiaoruiliu@berkeley.edu 
 website: 
 photo: http://ds100.org/fa24/resources/assets/staff_pics/Xiaorui_Liu.jpg
