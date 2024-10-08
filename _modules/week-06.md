@@ -14,7 +14,7 @@ Oct 3
     : [Note 11](https://ds100.org/course-notes/constant_model_loss_transformations/loss_transformations.html)
 : **Lecture Participation 11**{: .label .label-survey } [Lecture Participation 11](https://app.sli.do/event/2A2vDTB7XiFBa2cGvau4fH/embed/polls/78de1ace-4f47-4efc-88aa-3ba4147128f1){:target="_blank"}
 : **Exam Prep 5**{: .label .label-examprep } [SLR](https://drive.google.com/file/d/1ZHFVU8p_pN0k22gwbm4ZB6gnvEKL-Pqg/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1stSQlEXO4TcsJREVPMRFCcA8hviVTQ7C/view?usp=sharing){:target="_blank"}, [Walkthrough](https://drive.google.com/file/d/1a7nSzIAg508lkztnN_c8mbsjBrqsF1hB/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1stSQlEXO4TcsJREVPMRFCcA8hviVTQ7C/view?usp=sharing){:target="_blank"}
 
 
 Oct 4
