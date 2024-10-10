@@ -10,7 +10,7 @@ Oct 8
     : [Mini-Lecture](https://www.youtube.com/watch?v=2pStLwJDghc&list=PLQCcNQgUcDfplNp0itu2QqVjoDE9u5iow&index=1){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1fkM-AQS-gCjwIxT7SdrPmq-vY2fLXVFg/view?usp=sharing){:target="_blank"}
 
 Oct 10
-: **Lecture 13**{: .label .label-lecture} Gradient descent / sklearn
+: **Lecture 13**{: .label .label-lecture} [Gradient descent / sklearn](lecture/lec13)
 
 
 Oct 11
