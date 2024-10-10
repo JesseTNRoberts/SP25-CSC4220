@@ -11,7 +11,7 @@ Oct 8
 
 Oct 10
 : **Lecture 13**{: .label .label-lecture} [Gradient descent / sklearn](lecture/lec13)
-
+: **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/dQqF2B9C3MxUgacXViv8yY/embed/polls/5dfa1689-512a-4b90-b963-e5ba21d31432){:target="_blank"}
 
 Oct 11
 : **Lab 6**{: .label .label-lab }  OLS (due Oct 15)
