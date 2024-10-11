@@ -18,4 +18,4 @@ Oct 10
 
 Oct 11
 : **Lab 6**{: .label .label-lab }  OLS (due Oct 15)
-: **Homework 5B**{: .label .label-hw } OLS (due Oct 17)
+: **Homework 5B**{: .label .label-hw } [OLS](https://drive.google.com/file/d/1rAT7zcbLT8tU7VSCe1u98LpvWG7MsjPJ/view?usp=sharing){:target="_blank"} (due Oct 17)
