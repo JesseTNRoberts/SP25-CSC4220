@@ -5,6 +5,7 @@ title: Week 8
 Oct 15
 : **Lecture 14**{: .label .label-lecture} Feature Engineering
 : **Discussion 7**{: .label .label-disc } OLS, Gradient Descent
+    : [Mini-Lecture](https://youtu.be/9-ZfKJX3e14){:target="_blank"}
 
 Oct 17
 : **Lecture 15**{: .label .label-lecture} Case Study (HCE): CCAO
