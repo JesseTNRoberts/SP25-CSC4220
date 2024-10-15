@@ -68,35 +68,48 @@ See below in the description for [Milestone 2](#milestone-2-eda) for detailed in
 
 ### Project Tasks
 
+Now, we aim to better understand the different chatbot models! Please complete both Task A and B. We have included example questions to consider, but you are expected to come up with your own questions to answer.
+
+For both tasks, you will be working with the training set provided. But you are also expected to perform prediction on a test set (`./validation-set/arena-validation-set-prompt-and-responses.jsonl.gz`). This data contains fields `question_id`, `prompt`, `model_a`, `model_b`, `model_a_response`, and `model_b_response`. **You are expected to predict the winner and the hardness score for tasks A and B respectively.** Feel free to also use existing or new feature-transformed data (e.g. embeddings etc.) to improve predictions. (For example, we have already provided the embedding data for you which is an example of feature-transformed data in the same directory if you end up needing this feature).
+
+**You should submit your final prediction as a `csv` file with three columns `question_id`, `winner`, `hardness_score`. The `winner` column should be one of the four values: `model_a`, `model_b`, `tie`, or `tie (bothbad)`. The `hardness_score` should be an integer from 1 to 10.**
+
+
 #### *Task A: Modeling the Winning Model*
 {:.no_toc}
-Predict which chatbot model will win the user vote based on the prompt and model responses. Steps you can take:
+Predict which chatbot model will win the user vote based on the prompt and model responses.
 
+Steps you can take:
 1. Start by analyzing features such as the length, text characteristics, and embeddings of the prompt.
 2. Compare the outputs of the two chatbot models to find patterns.
-3. Use a classification model (e.g., logistic regression) to predict the winner. The inputs will be the prompt, model_a, and model_b.
-4. Evaluate your model’s performance using accuracy.
+3. Use a classification model (e.g., logistic regression) to predict the winner given `prompt`, `model_a`, `model_b`, `model_a_response`, and `model_b_response`.
+4. Use appropriate metrics to evaluate the performance of your model.
 
-Hint: Cluster prompts are based on their embeddings, then train separate models for each cluster to predict the winner.
+One hint would be to utilize topic modeling data by first clustering prompts given their embeddings, then for each cluster, train a model to predict the winner. Also, feel free to use the hardness score to help with the prediction.
 
 #### *Task B: Hardness Prediction*
 {:.no_toc}
-Predict the difficulty of a question, ranging from 1 to 10, using the available features. Steps you can take:
+Predict the difficulty of a question, ranging from 1 to 10, using the available features. For example, if a prompt’s score is 1, we expect the weak model to be able to answer the question. If the score is 10, we expect the question to be hard, maybe only GPT4 can answer it.
 
-1. Start by examining the question embeddings and topic modeling data. Look for patterns that might help predict question difficulty.
-2. Use linear regression to predict the hardness score. Incorporate relevant features from the data to improve your predictions.
-3. Ensure that your model predicts integer values between 1 and 10.
-4. Use Mean Squared Error (MSE) to evaluate the performance of your model.
+Steps you can take:
+5. Start by examining the question embeddings and topic modeling data. Look for patterns that might help predict question difficulty.
+6. Use linear regression to predict the hardness score. Incorporate relevant features from the data to improve your predictions.
+7. Ensure that your model predicts integer values between 1 and 10.
+8. Use appropriate metrics to evaluate the performance of your model.
 
-#### Resources
-{:.no_toc}
+One challenging aspect here is that the output score should be an integer value, while linear regression is used for continuous data.
 
-- [Joey's EDA and Elo rating modeling](https://colab.research.google.com/drive/1KdwokPjirkTmpO_P1WByFNFiqxWQquwH){:target="_blank"} is a great resource to get started with the EDA. Note that (1) the plot is made with Plotly, we recommend you to reproduce the plot with Matplotlib or Seaborn, and (2) the Elo rating is a good modeling task to reproduce but we expect you to do more than just that (for example, demonstrate how Elo rating works and how to calculate it in your report).
+Additionally, here are some example questions about the project that you are welcome to explore.
+> Modeling: Perform some modeling tasks given our ground truth labels. Can you train a logistic regression model to predict the winner-given embeddings? How about a K-means clustering model to cluster the questions? Can you use linear regression to predict the hardness score? We expect you to demonstrate how the well model works and how to evaluate them. You should justify the choice of model and the evaluation metrics. You should also discuss the limitations of the model and how to improve them.
+
+> Analysis: By leveraging the question embeddings, can we find similar questions? How repeated are the questions in the dataset? Can you reproduce the Elo score rating for the chatbots and come up with a better ranking? How can we make sense of the data overall?
+
+Resources
+- [Joey’s EDA and Elo rating modeling](https://colab.research.google.com/drive/1KdwokPjirkTmpO_P1WByFNFiqxWQquwH){:target="_blank"} is a great resource to get started with the EDA. Note that (1) the plot is made with Plotly, we recommend you to reproduce the plot with Matplotlib or Seaborn, and (2) the Elo rating is a good modeling task to reproduce but we expect you to do more than just that (for example, demonstrate how Elo rating works and how to calculate it in your report).
 
 - [An intuitive introduction to text embeddings](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/){:target="_blank"} is a good resource to understand what is text embeddings and how to use them.
 
-- [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system){:target="_blank"} and [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model){:target="_blank"} are essential to model a ranking among the pairwise comparison.
-
+- [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) and [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model){:target="_blank"} are essential to model a ranking among the pairwise comparison.
 - [Huggingface pipeline](https://huggingface.co/docs/transformers/en/main_classes/pipelines){:target="_blank"} has many implementations of common NLP tasks for you to use, including sentiment analysis, summarization, text classification, etc.
 
 - [spaCy](https://spacy.io/usage/spacy-101){:target="_blank"} is a wonderful library containing classifical NLP tasks like tokenization, lemmatization, etc.
