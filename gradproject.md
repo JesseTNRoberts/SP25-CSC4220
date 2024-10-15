@@ -26,9 +26,9 @@ The purpose of the project is to give students experience in both open-ended dat
 | Milestones  | Deadline (11:59 PM Pacific) | Event | Deliverables | Submission Link | Grading Weight |
 | ----------- | --------------------------- | ----- | ------------ | --------------- | -------------- |
 | Milestone 1 | October 14 | Group Formation + Research Proposal | Project Proposal Form | [Google Form](https://forms.gle/BciHSskLdmGrX6ZXA){:target="_blank"} | 5% |
-| Milestone 2 | October 28 | EDA + Internal Peer Review 1 | EDA Write-Up + Notebook, Internal Peer Review 1 | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045703/){:target="_blank"} <br> [Google Form](https://forms.gle/rmuKg9hG57Y8w6P7A){:target="_blank"} | 10% |
+| Milestone 2 | October 28 | EDA + Internal Peer Review 1 | EDA Write-Up + Notebook, Internal Peer Review 1 | [EDA Gradescope](https://www.gradescope.com/courses/827978/assignments/5159878){:target="_blank"} <br> [Peer Review Gradescope](https://www.gradescope.com/courses/827978/assignments/5159798){:target="_blank"} | 10% |
 | Milestone 3 | November 8 | Mandatory Check-In | One-Page Progress Report | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045723){:target="_blank"} | 7.5% |
-| Milestone 4 | November 22 | Internal Peer Review 2 | Second Internal Peer Review | [Google Form](https://forms.gle/Gr3WwdvFXpjxnEqHA){:target="_blank"} | 2% |
+| Milestone 4 | November 22 | Internal Peer Review 2 | Second Internal Peer Review | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5159827){:target="_blank"} | 2% |
 | Milestone 5 | December 2 | Project Report First Draft | Final Report Draft Write-Up + Notebook | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045727){:target="_blank"} | 18% |
 | Milestone 6 | December 6 | External Peer-Review | External Peer Review | OpenReview | 7.5% |
 | Final Submission | December 13 | Final Project Report | Final Project Report + Presentation Video | [Final Report Gradescope](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} <br> CV Predictions Gradescope <br> NLP Predictions Gradescope | 50% |
