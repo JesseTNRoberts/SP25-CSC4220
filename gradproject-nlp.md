@@ -127,7 +127,7 @@ The rubric for this milestone is as follows:
 
 ### Milestone 2: EDA + Internal Peer Review (10%) - October 28, 2024
 
-The checkpoint is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to [this Gradescope assignment](https://www.gradescope.com/courses/827978/assignments/5045703/){:target="_blank"} by **11:59 pm on October 28**. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your submission should include:
+The milestone is intended to keep you on track to meet your project goals. You will need to submit an exploratory data analysis report to [this Gradescope assignment](https://www.gradescope.com/courses/827978/assignments/5159878){:target="_blank"} by **11:59 pm on October 28**. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Please answer all the questions below. Your submission should include:
 
 - **Data Sampling and Collection**
   - How was the data read and sampled for your EDA process?
@@ -154,7 +154,7 @@ Concretely, here are the minimal requirements for EDA for each project. Using yo
   - (Open-ended) Visualize the "variance" in model performance (see [LMSys Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard){:target="_blank"} for an example).
   - (Open-ended) Explore the prompt topics in the dataset (topic modeling).
 
-Every member of the group also needs to submit the internal peer review [form](https://forms.gle/fR32VRdfB3jJpMQg8){:target="_blank"} for this checkpoint by **11:59 pm on October 28**. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
+Every member of the group also needs to submit the internal peer review [Gradescope assignment](https://www.gradescope.com/courses/827978/assignments/5159798){:target="_blank"} for this checkpoint by **11:59 pm on October 28**. This form is intended to record your and your group members' progress in the project. The records will be confidential to the teaching staff and will not be shared with other students.
 
 The rubric for this milestone is as follows:
 - Data Sampling and Collection (0.5%).
@@ -185,7 +185,7 @@ The rubric for this milestone is as follows:
 
 ### Milestone 4: Internal Peer Review (2%) - November 22, 2024
 
-The internal peer review is a simple google form checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.  The internal peer review [form](https://forms.gle/z9Lh6iEFZRLqHG9c7){:target="_blank"} for this checkpoint is due by **11:59 pm on November 22**.
+The internal peer review is for checking if each member of the group is contributing to the project and how the tasks are distributed among members. This is graded on completion.  The internal peer review [Gradescope assignment](https://www.gradescope.com/courses/827978/assignments/5159827){:target="_blank"} for this milestone is due by **11:59 pm on November 22**.
 
 ### Milestone 5: Project Report First Draft (18%) - December 2, 2024
 

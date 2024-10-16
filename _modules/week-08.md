@@ -3,7 +3,8 @@ title: Week 8
 ---
 
 Oct 15
-: **Lecture 14**{: .label .label-lecture} Feature Engineering
+: **Lecture 14**{: .label .label-lecture} [Feature Engineering](lecture/lec14)
+: **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 14](https://app.sli.do/event/omFZ3ewLrDy3PTMtAsqfjv/embed/polls/52c193a7-818e-46a2-adea-69818f6975f1){:target="_blank"}
 : **Discussion 7**{: .label .label-disc } [Gradient Descent, Feature Engineering](https://drive.google.com/file/d/1oGCmWbP8lmcyl5LdVzkU_4U-kg44QRwg/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/9-ZfKJX3e14){:target="_blank"}
 
