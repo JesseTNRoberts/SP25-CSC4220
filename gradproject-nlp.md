@@ -70,7 +70,6 @@ See below in the description for [Milestone 2](#milestone-2-eda) for detailed in
 
 Now, we aim to better understand the different chatbot models! Please complete both Task A and B. We have included example questions to consider, but you are expected to come up with your own questions to answer.
 
-For both tasks, you will be working with the training set provided. But you are also expected to perform prediction on a test set (`./validation-set/arena-validation-set-prompt-and-responses.jsonl.gz`). This data contains fields `question_id`, `prompt`, `model_a`, `model_b`, `model_a_response`, and `model_b_response`. **You are expected to predict the winner and the hardness score for tasks A and B respectively.** Feel free to also use existing or new feature-transformed data (e.g. embeddings etc.) to improve predictions. (For example, we have already provided the embedding data for you which is an example of feature-transformed data in the same directory if you end up needing this feature).
 
 **You should submit your final prediction as a `csv` file with three columns `question_id`, `winner`, `hardness_score`. The `winner` column should be one of the four values: `model_a`, `model_b`, `tie`, or `tie (bothbad)`. The `hardness_score` should be an integer from 1 to 10.**
 
@@ -293,13 +292,13 @@ This component of the final report will be graded based on your models' performa
 
 The test sets for both tasks are named as follows:
 
-1. `arena-validation-set-prompt-and-responses.jsonl.gz`
-2. `arena-validation-set-prompts-embeddings.npy`
-3. `arena-validation-set-model_a_response-embeddings.npy`
-4. `arena-validation-set-model_b_response-embeddings.npy`
-5. `arena-validation-set-topic-modeling.jsonl.gz`
+1. `arena-test-set-prompt-and-responses.jsonl.gz`
+2. `arena-test-set-prompts-embeddings.npy`
+3. `arena-test-set-model_a_response-embeddings.npy`
+4. `arena-test-set-model_b_response-embeddings.npy`
+5. `arena-test-set-topic-modeling.jsonl.gz`
 
-All files are located in `shared/course/data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data/validation-set` directory on Data 100 Datahub.
+All files are located in `shared/course/data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data/test-set` directory on Data 100 Datahub.
 
 Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to the Gradescope assignment (assignment link coming soon).
 
