@@ -70,6 +70,7 @@ See below in the description for [Milestone 2](#milestone-2-eda) for detailed in
 
 Now, we aim to better understand the different chatbot models! Please complete both Task A and B. We have included example questions to consider, but you are expected to come up with your own questions to answer.
 
+For both tasks, you will be working with the training set provided. But you are also expected to perform prediction on a test set (`./test-set/arena-test-set-prompt-and-responses.jsonl.gz`). This data contains fields `question_id`, `prompt`, `model_a`, `model_b`, `model_a_response`, and `model_b_response`. **You are expected to predict the winner and the hardness score for tasks A and B respectively.** Feel free to also use existing or new feature-transformed data (e.g. embeddings etc.) to improve predictions. (For example, we have already provided the embedding data for you which is an example of feature-transformed data in the same directory if you end up needing this feature).
 
 **You should submit your final prediction as a `csv` file with three columns `question_id`, `winner`, `hardness_score`. The `winner` column should be one of the four values: `model_a`, `model_b`, `tie`, or `tie (bothbad)`. The `hardness_score` should be an integer from 1 to 10.**
 
