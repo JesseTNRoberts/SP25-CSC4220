@@ -10,5 +10,5 @@ Presented by Ari Edmundson
 
 Content by Ari Edmundson
 
-- [slides](https://docs.google.com/presentation/d/1xznqM6dd8XsklPvXYS_WzYhmuQvQJqOxMhOMnxq7Rto/edit?usp=sharing){:target="_blank"}
-- [recording](https://youtu.be/PvxMAukFvJE){:target="_blank"}
+- [slides](https://docs.google.com/presentation/d/1ECci7qVvQwiflO33YFq069rEFklLCkBHNPJeaGVx4O8/edit?usp=sharing){:target="_blank"}
+<!-- - [recording](https://youtu.be/PvxMAukFvJE){:target="_blank"} -->

@@ -10,7 +10,7 @@ Oct 15
     : [Mini-Lecture](https://youtu.be/9-ZfKJX3e14){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1Q8rj8F6OdiriysvDkMz6DRxst8-A3mG8/view?usp=sharing){:target="_blank"}
 
 Oct 17
-: **Lecture 15**{: .label .label-lecture} Case Study (HCE): CCAO
+: **Lecture 15**{: .label .label-lecture} [Case Study (HCE): CCAO](lecture/lec15)
 
 
 Oct 18
