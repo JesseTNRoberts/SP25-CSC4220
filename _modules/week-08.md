@@ -11,6 +11,7 @@ Oct 15
 
 Oct 17
 : **Lecture 15**{: .label .label-lecture} [Case Study (HCE): CCAO](lecture/lec15)
+    : [Note 15](https://ds100.org/course-notes/case_study_HCE/case_study_HCE.html)
 : **Lecture Participation 15**{: .label .label-survey } [Lecture Participation 15](https://app.sli.do/event/hKHvt3ZfyrfFvrTHEu2Uec/embed/polls/3546b9c6-8213-48bd-90ff-de7d96ef3fd5){:target="_blank"}
 
 Oct 18
