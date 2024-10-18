@@ -16,4 +16,4 @@ Oct 17
 
 Oct 18
 : **Lab 7**{: .label .label-lab }  [Gradient descent and Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab07%2Flab07.ipynb&branch=main) (due Oct 22)
-: **Project A1**{: .label .label-proj } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fproj%2FprojA1%2FprojA1.ipynb&branch=main) (due Oct 24)
+: **Project A1**{: .label .label-proj } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fproj%2FprojA1%2FprojA1.ipynb&branch=main) (due Oct 25)
