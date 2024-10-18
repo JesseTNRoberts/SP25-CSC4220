@@ -7,7 +7,7 @@ Oct 15
     : [Note 14](https://ds100.org/course-notes/feature_engineering/feature_engineering.html)
 : **Lecture Participation 14**{: .label .label-survey } [Lecture Participation 14](https://app.sli.do/event/omFZ3ewLrDy3PTMtAsqfjv/embed/polls/52c193a7-818e-46a2-adea-69818f6975f1){:target="_blank"}
 : **Discussion 7**{: .label .label-disc } [Gradient Descent, Feature Engineering](https://drive.google.com/file/d/1oGCmWbP8lmcyl5LdVzkU_4U-kg44QRwg/view?usp=sharing){:target="_blank"}
-    : [Mini-Lecture](https://youtu.be/9-ZfKJX3e14){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1Q8rj8F6OdiriysvDkMz6DRxst8-A3mG8/view?usp=sharing){:target="_blank"}
+    : [Mini-Lecture](https://youtu.be/9-ZfKJX3e14){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1Q8rj8F6OdiriysvDkMz6DRxst8-A3mG8/view?usp=sharing),[Walkthrough](https://youtu.be/D5f27JDliRQ){:target="_blank"}
 
 Oct 17
 : **Lecture 15**{: .label .label-lecture} [Case Study (HCE): CCAO](lecture/lec15)
