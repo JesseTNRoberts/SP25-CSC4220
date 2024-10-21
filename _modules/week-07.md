@@ -14,7 +14,7 @@ Oct 10
     : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
 : **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/dQqF2B9C3MxUgacXViv8yY/embed/polls/5dfa1689-512a-4b90-b963-e5ba21d31432){:target="_blank"}
 : **Exam Prep 6**{: .label .label-examprep } [OLS, Gradient Descent](https://drive.google.com/file/d/1EhkplzSAcEC9E4Z194dRjtm9nnzfuxBm/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1u_r-jtM2FBoxFZXXHklWRFdNtyy51EAo/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1u_r-jtM2FBoxFZXXHklWRFdNtyy51EAo/view?usp=sharing), [Walkthrough](https://youtu.be/-vQeuewzjgE){:target="_blank"}
 
 Oct 11
 : **Lab 6**{: .label .label-lab }  [OLS](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab06%2Flab06.ipynb&branch=main) (due Oct 15)
