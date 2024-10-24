@@ -8,6 +8,7 @@ Oct 22
     : [Note 16](https://ds100.org/course-notes/cv_regularization/cv_reg.html)
 : **Lecture Participation 16**{: .label .label-survey } [Lecture Participation 16](https://app.sli.do/event/1miAsRfV3hvpuN6QVBNv8R/embed/polls/58feb615-8a8c-4df0-8a1d-c888fd7c0fc2){:target="_blank"}
 : **Discussion 8**{: .label .label-disc } [Midterm Review](https://drive.google.com/file/d/1cCLQbN6Xe0JhoNWrtB5wVp8yz1zSVK1n/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1Qo9EWT358c6bF50CxgQXd-TukgRqiKX5/view?usp=sharing){:target="_blank"}
 
 Oct 23
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
