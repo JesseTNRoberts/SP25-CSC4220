@@ -14,7 +14,7 @@ Oct 23
 : **Midterm Exam**{: .label .label-exam } Midterm (7-9 PM PST)
 
 Oct 24
-: **Lecture 17**{: .label .label-lecture} Random Variables
+: **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
 
 
 Oct 25
