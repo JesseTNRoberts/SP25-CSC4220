@@ -15,6 +15,7 @@ Oct 23
 
 Oct 24
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
+: **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/v4p5AULJ2ZNeNJk9EJdsrb/embed/polls/36576fa1-8b8f-4a4c-afdb-1314c91fed98){:target="_blank"}
 
 
 Oct 25
