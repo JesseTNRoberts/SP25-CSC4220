@@ -4,7 +4,7 @@ title: Week 10
 
 
 Oct 29
-: **Lecture 18**{: .label .label-lecture} Estimators, Bias, and Variance
+: **Lecture 18**{: .label .label-lecture} [Estimators, Bias, and Variance](lecture/lec18)
 : **Discussion 9**{: .label .label-disc } [Cross-Validation and Regularization](https://drive.google.com/file/d/1asMcoIisAkk9zTX4nSUazVm6ToPjfBRT/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/fii089-AWeA){:target="_blank"}
 
