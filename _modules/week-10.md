@@ -11,7 +11,7 @@ Oct 29
     : [Mini-Lecture](https://youtu.be/fii089-AWeA){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1iLWl2_DkA-PRNnKCMPTivaufEB0iksjI/view?usp=sharing){:target="_blank"}
 
 Oct 31
-: **Lecture 19**{: .label .label-lecture} Parameter Inference & the Bootstrap
+: **Lecture 19**{: .label .label-lecture} [Parameter Inference & the Bootstrap](lecture/lec19)
 
 
 Nov 1
