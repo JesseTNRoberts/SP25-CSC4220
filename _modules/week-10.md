@@ -12,6 +12,7 @@ Oct 29
 
 Oct 31
 : **Lecture 19**{: .label .label-lecture} [Parameter Inference & the Bootstrap](lecture/lec19)
+: **Lecture Participation 19**{: .label .label-survey} [Lecture Participation 19](https://app.sli.do/event/edfuu2siDSV7pr2AajTWFm/embed/polls/dfddb7c8-042d-4272-ad53-57155b7ef3d43){:target="_blank"}
 
 
 Nov 1
