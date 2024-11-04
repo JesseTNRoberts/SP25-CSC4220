@@ -5,7 +5,7 @@ title: Week 11
 
 Nov 5
 : **Lecture 20**{: .label .label-lecture} SQL I
-: **Discussion 10**{: .label .label-disc } RVs, Bias, and Variance
+: **Discussion 10**{: .label .label-disc } [RVs, Bias, and Variance](https://drive.google.com/file/d/1VJvp3spRvsWz6ULO8CboYwnOR4QWZOY_/view?usp=sharing){:target="_blank"}
     : [Mini-Lecture](https://youtu.be/bp7-OwxdGwg){:target="_blank"}
 
 Nov 7
