@@ -18,7 +18,7 @@ Oct 24
     : [Note 17](https://ds100.org/course-notes/probability_1/probability_1.html)
 : **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/v4p5AULJ2ZNeNJk9EJdsrb/embed/polls/36576fa1-8b8f-4a4c-afdb-1314c91fed98){:target="_blank"}
 : **Exam Prep 7**{: .label .label-examprep } [Cross Validation and Regularization](https://drive.google.com/file/d/1_e8hPjz0u6aRic8xw0yIZ9w21Tx2syKU/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1hvagKYAhbNdZeU9OLaesnq0D9K0xHlxE/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1hvagKYAhbNdZeU9OLaesnq0D9K0xHlxE/view?usp=sharing), [Walkthrough](https://youtu.be/lyN7_YCFdNw){:target="_blank"}
 
 
 Oct 25
