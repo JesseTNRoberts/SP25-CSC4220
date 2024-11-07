@@ -11,7 +11,7 @@ Nov 5
     : [Mini-Lecture](https://youtu.be/bp7-OwxdGwg){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1qhvi8H4nmnJnZlStYYNxmY5ZMf_B47ER/view?usp=sharing){:target="_blank"}
 
 Nov 7
-: **Lecture 21**{: .label .label-lecture} SQL II
+: **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
 
 
 Nov 8
