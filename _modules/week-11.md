@@ -12,6 +12,7 @@ Nov 5
 
 Nov 7
 : **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
+: **Lecture Participation 21**{: .label .label-survey} [Lecture Participation 21](https://app.sli.do/event/xnbr6qkKbV5mvjhbFEeTyc/embed/polls/5c64f7a1-d779-49d6-9183-d92c88312203){:target="_blank"}
 
 
 Nov 8
