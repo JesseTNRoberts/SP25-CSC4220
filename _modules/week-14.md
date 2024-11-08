@@ -4,7 +4,7 @@ title: Week 14
 
 
 Nov 26
-: **Lecture 26**{: .label .label-lecture} PCA II
+: **Lecture 26**{: .label .label-lecture} Clustering
 : **Discussion 13**{: .label .label-disc } PCA
 
 Nov 28
@@ -12,4 +12,4 @@ Nov 28
 
 
 Nov 29
-: **Lab 12**{: .label .label-lab } PCA (due Dec 3)
+: **Lab 13**{: .label .label-lab } Clustering (due Dec 10)
