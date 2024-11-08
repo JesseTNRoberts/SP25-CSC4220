@@ -12,6 +12,7 @@ Nov 5
 
 Nov 7
 : **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
+    : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 
 
 Nov 8
