@@ -20,5 +20,5 @@ Nov 7
 
 
 Nov 8
-: **Lab 10**{: .label .label-lab }  SQL (due Nov 12)
+: **Lab 10**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab10%2Flab10.ipynb&branch=main) (due Nov 12)
 : **Homework 7**{: .label .label-hw } SQL (due Nov 14)
