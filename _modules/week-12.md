@@ -5,7 +5,7 @@ title: Week 12
 
 Nov 12
 : **Lecture 22**{: .label .label-lecture} Logistic Regression I
-: **Discussion 11**{: .label .label-disc } SQL
+: **Discussion 11**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1KA2LaUMvAyzS0JDHDMMBOtw8YMRDNMN1/view?usp=sharing){:target="_blank"}
 
 Nov 14
 : **Lecture 23**{: .label .label-lecture} Logistic Regression II
