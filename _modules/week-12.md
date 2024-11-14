@@ -11,7 +11,7 @@ Nov 12
     : [Mini-Lecture](https://youtu.be/ZFq_yelFhDY), [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fdisc%2Fdisc11%2Fdisc11_blank.ipynb&branch=main), [Solutions](https://drive.google.com/file/d/133jt7JQWQizMkYguy8bQ59JycTzznrpH/view?usp=sharing){:target="_blank"}
     
 Nov 14
-: **Lecture 23**{: .label .label-lecture} Logistic Regression II
+: **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
 
 
 Nov 15
