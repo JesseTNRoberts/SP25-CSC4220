@@ -16,5 +16,5 @@ Nov 14
 : **Lecture Participation 23**{: .label .label-survey} [Lecture Participation 23](https://app.sli.do/event/4ZSN95RjYcTrxRLMx852ah/embed/polls/94bb1b61-6135-4ade-9d14-a325c62d8f8f){:target="_blank"}
 
 Nov 15
-: **Lab 11**{: .label .label-lab }  Logistic Regression (due Nov 19)
+: **Lab 11**{: .label .label-lab }  [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due Nov 19)
 : **Project B1**{: .label .label-proj } Spam & Ham I (due Nov 21)
