@@ -13,4 +13,6 @@ Nov 21
 
 Nov 22
 : **Lab 12**{: .label .label-lab }  PCA (due Nov 26)
+
+Nov 24
 : **Project B2**{: .label .label-proj } Spam & Ham II (due Dec 5)
