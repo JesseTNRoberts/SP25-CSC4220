@@ -19,4 +19,4 @@ Nov 15
 : **Lab 11**{: .label .label-lab }  [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due Nov 19)
 
 Nov 17
-: **Project B1**{: .label .label-proj } Spam & Ham I (due Nov 23)
+: **Project B1**{: .label .label-proj } [Spam & Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fproj%2FprojB1%2FprojB1.ipynb&branch=main) (due Nov 23)
