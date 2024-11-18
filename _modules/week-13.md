@@ -6,6 +6,7 @@ title: Week 13
 Nov 19
 : **Lecture 24**{: .label .label-lecture} PCA I
 : **Discussion 12**{: .label .label-disc } Logistic Regression
+    : [Mini-Lecture](https://youtu.be/fseH10rEg3w){:target="_blank"}
 
 Nov 21
 : **Lecture 25**{: .label .label-lecture} PCA II
