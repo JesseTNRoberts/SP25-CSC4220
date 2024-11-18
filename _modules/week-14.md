@@ -5,7 +5,7 @@ title: Week 14
 
 Nov 26
 : **Lecture 26**{: .label .label-lecture} Clustering
-: **Discussion 13**{: .label .label-disc } PCA
+: **No Discussion**{: .label .label-disc }
 
 Nov 28
 : **No Lecture**{: .label .label-lecture}
