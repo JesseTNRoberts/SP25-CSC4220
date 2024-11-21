@@ -12,7 +12,7 @@ Nov 19
     : [Mini-Lecture](https://youtu.be/fseH10rEg3w){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1bwsYqyumVCJYbBpHPq5zKwdtrMoYbzTa/view?usp=sharing){:target="_blank"}
 
 Nov 21
-: **Lecture 25**{: .label .label-lecture} PCA II
+: **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
 
 
 Nov 22
