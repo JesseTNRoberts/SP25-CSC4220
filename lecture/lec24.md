@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 24 – Decision trees
+title: Lecture 24 – PCA I 
 nav_exclude: true
 ---
 
