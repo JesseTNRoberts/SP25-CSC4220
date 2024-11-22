@@ -17,7 +17,7 @@ Nov 21
 
 
 Nov 22
-: **Lab 12**{: .label .label-lab }  PCA (due Nov 26)
+: **Lab 12**{: .label .label-lab }  [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab12%2Flab12.ipynb&branch=main) (due Nov 26)
 
 Nov 24
 : **Project B2**{: .label .label-proj } Spam & Ham II (due Dec 5)
