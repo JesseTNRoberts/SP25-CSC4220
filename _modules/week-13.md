@@ -13,6 +13,7 @@ Nov 19
 
 Nov 21
 : **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
+    : [Note 25](https://ds100.org/course-notes/pca_2/pca_2.html)
 
 
 Nov 22
