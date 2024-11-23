@@ -14,6 +14,7 @@ Nov 19
 Nov 21
 : **Lecture 25**{: .label .label-lecture} [PCA II](lecture/lec25)
     : [Note 25](https://ds100.org/course-notes/pca_2/pca_2.html)
+: **Lecture Participation 25**{: .label .label-survey} [Lecture Participation 25](https://app.sli.do/event/dg6qh3GWTi2hUqMQ38Vh7Q/embed/polls/aa132422-6dff-4e7f-a998-51539117a566){:target="_blank"}
 
 
 Nov 22
