@@ -15,7 +15,7 @@ Nov 7
     : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey} [Lecture Participation 21](https://app.sli.do/event/xnbr6qkKbV5mvjhbFEeTyc/embed/polls/5c64f7a1-d779-49d6-9183-d92c88312203){:target="_blank"}
 : **Exam Prep 9**{: .label .label-examprep } [SQL](https://drive.google.com/file/d/1clgkqxS9cw8OHm2hfi4pted5KHzd5Omp/view?usp=sharing){:target="_blank"}
-    : [Solutions](https://drive.google.com/file/d/1ywDc5HERTSMAiZ9z0rZEku0qbWJo6woz/view?usp=sharing){:target="_blank"}
+    : [Solutions](https://drive.google.com/file/d/1ywDc5HERTSMAiZ9z0rZEku0qbWJo6woz/view?usp=sharing), [Walkthrough](https://youtu.be/oK3wzlNKeXY){:target="_blank"}
 
 
 
