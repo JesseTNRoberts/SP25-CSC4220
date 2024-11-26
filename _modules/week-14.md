@@ -4,7 +4,7 @@ title: Week 14
 
 
 Nov 26
-: **Lecture 26**{: .label .label-lecture} Clustering
+: **Lecture 26**{: .label .label-lecture} [Clustering](lecture/lec26)
 : **No Discussion**{: .label .label-disc }
 
 Nov 28
