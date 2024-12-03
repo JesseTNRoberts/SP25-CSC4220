@@ -4,7 +4,7 @@ title: Lecture 27 – Intro to LLMs and Conclusion
 nav_exclude: true
 ---
 
-# Lecture 27 – Intro to LLMs and Conclusion
+# Lecture 27 – Neural Networks
 
 Presented by Narges Norouzi and Joseph E. Gonzalez
 
