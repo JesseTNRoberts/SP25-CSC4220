@@ -4,7 +4,7 @@ title: Lecture 28 – LLMs + closing
 nav_exclude: true
 ---
 
-# Lecture 27 – LLMs + closing
+# Lecture 28 – LLMs + closing
 
 Presented by Joseph E. Gonzalez
 
