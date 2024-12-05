@@ -30,8 +30,8 @@ The purpose of the project is to give students experience in both open-ended dat
 | Milestone 3 | November 8 | Mandatory Check-In | One-Page Progress Report | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045723){:target="_blank"} | 7.5% |
 | Milestone 4 | November 22 | Internal Peer Review 2 | Second Internal Peer Review | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5159827){:target="_blank"} | 2% |
 | Milestone 5 | December 2 | Project Report First Draft | Final Report Draft Write-Up + Notebook | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5045727){:target="_blank"} | 18% |
-| Milestone 6 | December 6 | External Peer-Review | External Peer Review | OpenReview | 7.5% |
-| Final Submission | December 13 | Final Project Report | Final Project Report + Presentation Video | [Final Report Gradescope](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} <br> CV Predictions Gradescope <br> NLP Predictions Gradescope | 50% |
+| Milestone 6 | December 6 | External Peer-Review | External Peer Review | [Gradescope](https://www.gradescope.com/courses/827978/assignments/5392834){:target="_blank"} | 7.5% |
+| Final Submission | December 13 | Final Project Report | Final Project Report + Presentation Video | [Project Report PDF Gradescope](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} <br> [Project Report Code Gradescope](https://www.gradescope.com/courses/827978/assignments/5412929){:target="_blank"} <br> [CV Predictions Gradescope](https://www.gradescope.com/courses/827978/assignments/5159453){:target="_blank"} <br> [NLP Predictions Gradescope](https://www.gradescope.com/courses/827978/assignments/5159424){:target="_blank"} | 50% |
 
 For each milestone listed above, detailed expectations can be found in the "Milestone" section under each of the project topics (Computer Vision or Natural Language Processing) which is explained above. Please refer to these sections for specific requirements and guidelines related to your chosen project topic.
 

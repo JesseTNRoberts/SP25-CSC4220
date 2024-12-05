@@ -198,7 +198,7 @@ Submit to the [first draft project report assignment](https://www.gradescope.com
 
 ### Milestone 6: External Peer Review (7.5%) - December 6, 2024
 
-Each student will peer review a project from another group; each student will be graded separately based on the feedback they provide in their review. Each review should include the following components:
+Each group will peer review a project from another group; each group will be graded together based on the feedback they provide in their review. Each review should include the following components:
 
 1. (1.5%) A summary of the report. The summary should address at least the following:
 - What is the conclusion drawn from the EDA and modeling results?
@@ -213,13 +213,15 @@ Each student will peer review a project from another group; each student will be
 - Inference (do the results from the model sufficiently support the conclusion within the report?)
 - Discussion (does the report effectively discuss the limitations of the methods used and the implications of the results?)
 
-The external peer review is also a great chance to learn from other people's work and reflect on your own work.
+The external peer review is also a great chance to learn from other people's work and reflect on your own work. Submit one combined review to the [external peer review assignment](https://www.gradescope.com/courses/827978/assignments/5392834){:target="_blank"} on Gradescope by **11:59pm on December 6**. Remember to add your group members on your submission.
 
 <a name = 'final-project-report'></a>
 
 ## Final Project Report (50%) - December 13, 2024
 
-The project submission should include the following four components. Please submit components 1-3 as a zip file to the [final report submission assignment](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} on Gradescope. Please make sure the folder in the zip file has the following structure:
+**The project submission should include the following four components, submitted across three Gradescope assignments.** For all three assignments, submit one per group. Make sure to add your group members on the Gradescope submission.
+
+**Please submit component 1 as a zip file to the [final project code submission assignment](https://www.gradescope.com/courses/827978/assignments/5412929){:target="_blank"} on Gradescope.** Please make sure the folder in the zip file has the following structure:
 
 ```
 [your studentIDs joined by _]/
@@ -231,7 +233,9 @@ The project submission should include the following four components. Please subm
 
 Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
-For component 4, you will submit your test set predictions to a separate Gradescope assignment. See below for more details.
+**Please also submit components 2-3 as a PDF to the [final project report submission assignment](https://www.gradescope.com/courses/827978/assignments/5045744){:target="_blank"} on Gradescope.** Make sure that the link to the video is included somewhere in your PDF.
+
+**For component 4, you will submit your test set predictions to the [NLP predictions assignment](https://www.gradescope.com/courses/827978/assignments/5159424){:target="_blank"}.** See below for more details.
 
 ### [Component 1] Analysis Notebooks (10%)
 
@@ -301,7 +305,7 @@ The test sets for both tasks are named as follows:
 
 All files are located in `shared/course/data100-shared-readwrite/fa24_grad_project_data/nlp-chatbot-analysis_data/test-set` directory on Data 100 Datahub.
 
-Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to the Gradescope assignment (assignment link coming soon).
+Submit a single CSV file with three columns named `question_id`, `winner`, `hardness_score` to [the predictions assignment](https://www.gradescope.com/courses/827978/assignments/5159424){:target="_blank"}.
 
 The maximum for each task is 5 points; please see the thresholds for the tasks below.
 
