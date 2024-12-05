@@ -10,4 +10,4 @@ Dec 3
     : [Mini-Lecture](https://youtu.be/kZzhgzMFnDU){:target="_blank"}, [Solutions](https://drive.google.com/file/d/1Wz75d38YQqC16Q6yUtDL5gEU2cQNtj65/view?usp=sharing){:target="_blank"}
 
 Dec 5
-: **Lecture 28**{: .label .label-lecture} LLMs + closing
+: **Lecture 28**{: .label .label-lecture} [LLMs + closing](lecture/lec28)
