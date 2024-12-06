@@ -11,3 +11,4 @@ Dec 3
 
 Dec 5
 : **Lecture 28**{: .label .label-lecture} [LLMs + closing](lecture/lec28)
+: **Lecture Participation 28**{: .label .label-survey} [Lecture Participation 28](https://app.sli.do/event/ameWL1qvLUyzqGe8WALU46/embed/polls/b0d01267-fd1a-43d5-9e0d-8152badbd11f){:target="_blank"}
