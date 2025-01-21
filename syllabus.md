@@ -20,7 +20,7 @@ Jump to:
 
 <a name = 'about'></a>
 
-## About CSC 4220
+## About CSC 4220/5220
 
 This course begins by exploring the basics of data science using python to understand the role of modeling. The relevant portion of the world can range from simple to outrageously complex. So, we must learn various types of models and explore how to evaluate and choose models, based on task type, complexity, and available data. We will delve into: Simple linear regression (with and without input transformations), multiple linear regression, logistic regression, PCA, KNN clustering, decision trees, support vector machines, the perceptron, multi-layer perceptron, auto-encoders, and large language models. Additionally, we will discuss ensemble learning, reinforcement learning, and machine learning ethics. 
 
@@ -39,7 +39,7 @@ This course begins by exploring the basics of data science using python to under
 
 - **Math**: Linear Algebra (Math 2010). We will need some basic concepts like linear operators, projections, and optimization to analyze and derive new prediction algorithms. 
 
-Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material.
+Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material and diving deeper.
 
 
 **Textbook**: This course has two official texts. Both texts are available for free online (legally) at the provided links.
@@ -79,11 +79,9 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 |  Mo | Tu | We | Th | Fr |
 | --- | --- | --- | --- | --- | --- |
-| | <span style="color:Green">Live Lecture</span> |  | <span style="color:Green">Live Lecture</span> | |
-| | <span style="color:Blue">Discussion Section</span> | <span style="color:Blue">Discussion Section</span> | | | |
-| Office Hours | | Office Hours | Office Hours | Office Hours | 
-| | | | <span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework N released</span> | 
-| | <span style="color:#c91d1d">**Lab N-1 due**</span> | | | <span style="color:#c91d1d">Lab N released</span> |
+| <span style="color:Green">Lecture</span> | | <span style="color:Green">Lecture</span> |  | |
+| Office Hours | | Office Hours | | | 
+| <span style="color: #c91d1d">**Lab N-1 due**</span> | | <span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework and Lab N released</span> |  | 
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
@@ -93,7 +91,6 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 ### Lecture
 
 Lecture attendance is mandatory. 
-
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
@@ -113,6 +110,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All labs are intended to take about an hour.
 - Lab submissions are mandatory.
 - Labs are graded by the TAs based on completion and effort.
+- Labs are optional for 5220
 
 ### Exams
 
@@ -124,15 +122,12 @@ There will be two exams in this course:
 
 ### Graduate Course
 
-Students in the graduate version of the course will complete 4 additional assignments. 
+Students in the graduate version of the course will complete 3 additional assignments. 
 
 - A modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible) 
 - A group discussion based on research paper reading
 - A culminating group project 
 
-All students enrolled in the graduate version of the course will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to be in the coming weeks.
-
-Further, 
 
 ## Office Hours and Communication
 
@@ -146,25 +141,25 @@ Course Communication:
 
 - **Ilearn**, is our course forum this semester. **_All course announcements will be through Ilearn._** Please check out [Ilearn](https://elearn.tntech.edu). It's best to set Ilearn so that announcements are sent as emails - that way none will be missed.
 
+- **Email** is the primary way to contact the instructor or TAs outside of class and office hours. Typically, you will receive a response within 24 hours. 
 
 ## Policies
 
 ### Grading Scheme
 
-| Category | Data 100 | Data 100 (no discussion) | Data 200 | Data 200S | Details |
-| --- | --- | --- | --- | --- | ---  |
-| Homeworks | 25% | 30% | 20% | 35% | No drop |
-| Projects | 10% | 10%| 10% | 20% | No drop |
-| Labs | 5% | 5% |  - |  5% | Drop 2 lowest scores |
-| Discussions | 5% | - | - | - | Drop 3 lowest scores |
-| Lecture Participation | 5% | 5% | 5% | 5% | Drop 3 lowest scores |
-| Midterm Exam | 20% | 20% | 20% | - | |
-| Final Exam | 30% | 30% | 30% | - | |
-| Graduate Final Project| - | - | 15% | 35% | |
+| Category | 4220 | 5220 | Details |
+| --- | --- | --- | ---  |
+| Homeworks | 30% | 20% | Drop 1 |
+| Projects | 20% | 20% | No drop |
+| Labs | 5% |  | Drop 2 |
+| Midterm Exam | 20% | 20% | |
+| Final Exam | 25% | 20% | |
+| Graduate Reading and Discussion | | 10% | |
+| Graduate Final Project | |10% | |
 
 ### On-Time Submission
 
-All assignments are due at **_11:59 PM Pacific Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
+All assignments are due at **_11:59 PM Central Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
 
 ### Slip Days
 
@@ -181,18 +176,19 @@ Each project or homework can have a maximum of **4** slip days applied. After 4 
 
 ### Collaboration Policy and Academic Honesty
 
-We will be following the [EECS departmental policy on Academic Honesty](https://eecs.berkeley.edu/resources/students/academic-dishonesty){:target="_blank"}, which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, including a failing grade in the course.
+If you misrepresent work as your own disciplinary action will be taken, including a failing grade in the course.
 
-**Assignments.** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your friends are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so is considered academic misconduct. We will be running advanced plagiarism detection programs on all assignments. **Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
-Not only does such copying count as academic misconduct, but it also circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have solutions in your possession from another student or another semester.
+**Assignments.** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your peers are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so will be considered academic misconduct. 
 
-**Exams.** Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don’t do it! Students caught cheating on any exam will fail the course.
+**Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
 
-Plagiarism on any assignment, as well as other violations to Berkeley’s [Code of Conduct](https://sa.berkeley.edu/code-of-conduct){:target="_blank"}, will be reported to the Center for Student Conduct. The CSC treats most first-time offenses as a [Non-Reportable Warning](https://sa.berkeley.edu/student-code-of-conduct-section6){:target="_blank"}. Additionally we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, an F in the course, or even dismissal from the university. It’s just not worth it!
+The benefit to completing the work in this course is similar to the benefit one gets from running laps. If someone else does it for you, you don't get the benefit. The value is in the doing, and not in having a completed assignment.
 
-Rather than copying someone else’s work, ask for help. You are not alone in Data 100! The entire staff is here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and respect for you.
+**Exams.** Students caught cheating on any exam will fail the course. No exceptions.
 
-Finally, know that it’s normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles, even though many try not to show it. Even if you don’t learn everything that’s being covered, you’ll be able to build on what you do learn, whereas if you cheat you’ll have nothing to build on. You aren’t expected to be perfect; it’s ok not to get an A.
+Plagiarism on any assignment, as well as other violations to TnTech’s [Student Handook](https://www.tntech.edu/handbooks/student/index.php){:target="_blank"}, will be reported. Additionally, we reserve the right to give you an F in the course. It’s just not worth it!
+
+Rather than copying, ask for help. You are not alone! The instructor and TAs are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and respect for you.
 
 
 ### Student Academic Integrity Policy  
