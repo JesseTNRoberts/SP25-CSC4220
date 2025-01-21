@@ -150,13 +150,14 @@ Course Communication:
 
 | Category | 4220 | 5220 | Details |
 | --- | --- | --- | ---  |
-| Homeworks | 30% | 20% | Drop 1 |
-| Projects | 20% | 20% | |
+| Homeworks | 25% | 20% | Drop 1 |
+| Projects | 20% | 15% | |
 | Labs | 5% |  | Drop 2 |
+| Quizzes | 10% | 10% | |
 | Midterm Exam | 20% | 20% | |
-| Final Exam | 25% | 20% | |
-| Graduate Reading and Discussion | Bonus 5% | 10% | |
-| Graduate Final Project | |10% | |
+| Final Exam | 20% | 20% | |
+| Graduate Reading and Discussion | Bonus 5% | 5% | |
+| Graduate Project | | 10% | |
 
 ### On-Time Submission
 
