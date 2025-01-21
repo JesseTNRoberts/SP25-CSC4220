@@ -42,10 +42,12 @@ This course begins by exploring the basics of data science using python to under
 Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material.
 
 
-**Textbook**: This course has three official texts. Both texts are available for free online (legally) at the provided links.
+**Textbook**: This course has two official texts. Both texts are available for free online (legally) at the provided links.
 
 - [Learning Data Science](https://learningds.org/intro.html) by Sam Lau, Joey Gonzalez, and Deb Nolan
 - [Deep Learning: Foundations and Concepts ](https://www.bishopbook.com) by Christopher Bishop and Hugh Bishop
+
+Additionally, the course material will be supplemented by instructor notes as well as notes based on the course notes provided in the Berkeley Data 100 course.
 
 
 ## Course Culture
@@ -120,9 +122,17 @@ There will be two exams in this course:
 > - **Midterm** on **Wednesday, March 12** 1-2:15 PM CST.
 - **Final** on **Tuesday, May 6** 1-3 PM CST.
 
-### Graduate Final Project
+### Graduate Course
+
+Students in the graduate version of the course will complete 4 additional assignments. 
+
+- A modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible) 
+- A group discussion based on research paper reading
+- A culminating group project 
 
 All students enrolled in the graduate version of the course will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to be in the coming weeks.
+
+Further, 
 
 ## Office Hours and Communication
 
@@ -184,11 +194,9 @@ Rather than copying someone else’s work, ask for help. You are not alone in Da
 
 Finally, know that it’s normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles, even though many try not to show it. Even if you don’t learn everything that’s being covered, you’ll be able to build on what you do learn, whereas if you cheat you’ll have nothing to build on. You aren’t expected to be perfect; it’s ok not to get an A.
 
-## Course Policies
 
 ### Student Academic Integrity Policy  
 Maintaining high standards of academic integrity in every class is critical to the reputation of Tennessee Tech, its students, faculty, alumni, and the employers of Tennessee Tech graduates. Academic integrity is at the foundation of the educational process and key to student success. Students with academic integrity are committed to honesty, ethical behavior, and avoiding academic integrity violations. All students must read and understand Policy 216: Student Academic Integrity. Please see the Academic Integrity [website](https://www.tntech.edu/provost/academicintegrity/) for more information.
-
 
 
 ## Disability Accommodation 
@@ -225,14 +233,8 @@ Health Services offers high-quality, affordable care that is accessible and prom
 Each student must take personal responsibility for knowing and following any University protocol related to pandemics and other public health events. Students are expected to follow all directives published by Tennessee Tech on its official webpage. As conditions related to the COVID-19 pandemic change, the University's COVID-19 protocols are also likely to change. Students are expected to monitor the University's official webpage to stay up to date on public health protocols.
 
 
+## Acknowledgements
 
-## We want you to succeed!
-
-If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Additional Accommodations Form. We know college can be stressful and we want to help you succeed.
-
-{: .important }
-We are committed to being a resource to you, but it is important to note that all members of the teaching staff for this course are [responsible employees](https://svsh.berkeley.edu/responsible-employee){:target="_blank"}, meaning that **we must disclose any incidents of sexual harassment or violence to campus authorities**. If you would like to speak to a confidential advocate, please consider reaching out to the [Berkeley PATH to Care Center](https://care.berkeley.edu/){:target="_blank"}.
-
-Finally, the main goal of this course is that you should learn and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 100!
+This syllabus is adapted from the syllabus provided by the TnTech office of the provost and the Berkeley Data 100 course syllabus.
 
 
