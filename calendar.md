@@ -5,15 +5,17 @@ nav_order: 4
 description: Office Hours Calendar
 ---
 
-## Office Hours Calendar
+## Instructor Office Hours Calendar
 
-`In-person office hours` are in <span style="color:blue">**blue**</span>, while `virtual office hours` are in <span style="color:brown">**brown**</span>. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc. 
-
-`Graduate project office hours` are in <span style="color:purple">**purple**</span>; we offer both in-person and virtual office hours (check the event description).
+`Instructor office hours` are by appointment. Students are always welcome to stop by, but I may not be able to meet. Please use the calendar below to schedule a meeting. Feel free to email me with any questions as well!
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/jtroberts/office-hours" style="min-width:320px;height:1400px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
+
+## TA Office Hours
+
+TBD - this will be updated shortly
 
 <br>
