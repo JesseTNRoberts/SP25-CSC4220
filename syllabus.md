@@ -38,36 +38,36 @@ The instructor is Dr. Jesse Roberts. To find out more about the course instructo
 
 | Session | Day                          | Week | Lecture                                 |
 | ------- | ---------------------------- | ---- | --------------------------------------- |
-| 1       | Wednesday, January 22, 2025  | 0    | Introduction                            |
-| 2       | Monday, January 27, 2025     | 1    | Pandas 1                                |
-| 3       | Wednesday, January 29, 2025  | 1    | Pandas 2                                |
-| 4       | Monday, February 3, 2025     | 2    | Exploratory Data A nalysis              |
-| 5       | Wednesday, February 5, 2025  | 2    | Visualization                           |
-| 6       | Monday, February 10, 2025    | 3    | Statistics and Hypothesis Testing       |
-| 7       | Wednesday, February 12, 2025 | 3    | Sampling  Populations and Distributions |
-| 8       | Monday, February 17, 2025    | 4    | Intro to Modeling                       |
-| 9       | Wednesday, February 19, 2025 | 4    | Case studies                            |
-| 10      | Monday, February 24, 2025    | 5    | Multiple Linear Regression              |
-| 11      | Wednesday, February 26, 2025 | 5    | SkLearn + Gradient Descent              |
-| 12      | Monday, March 3, 2025        | 6    | Feature Engineering                     |
-| 13      | Wednesday, March 5, 2025     | 6    | Model Evaluation + Regularization       |
-| 14      | Monday, March 10, 2025       | 7    | Estimators + Bias + Variance            |
-| 15      | Wednesday, March 12, 2025    | 7    | Exam                                    |
+| 0       | Wednesday, January 22, 2025  | 0    | Introduction                            |
+| 1       | Monday, January 27, 2025     | 1    | Pandas 1                                |
+| 2       | Wednesday, January 29, 2025  | 1    | Pandas 2                                |
+| 3       | Monday, February 3, 2025     | 2    | Exploratory Data A nalysis              |
+| 4       | Wednesday, February 5, 2025  | 2    | Visualization                           |
+| 5       | Monday, February 10, 2025    | 3    | Statistics and Hypothesis Testing       |
+| 6       | Wednesday, February 12, 2025 | 3    | Sampling  Populations and Distributions |
+| 7       | Monday, February 17, 2025    | 4    | Intro to Modeling                       |
+| 8       | Wednesday, February 19, 2025 | 4    | Case studies                            |
+| 9       | Monday, February 24, 2025    | 5    | Multiple Linear Regression              |
+| 10      | Wednesday, February 26, 2025 | 5    | SkLearn + Gradient Descent              |
+| 11      | Monday, March 3, 2025        | 6    | Feature Engineering                     |
+| 12      | Wednesday, March 5, 2025     | 6    | Model Evaluation + Regularization       |
+| 13      | Monday, March 10, 2025       | 7    | Estimators + Bias + Variance            |
+| 14      | Wednesday, March 12, 2025    | 7    | Exam                                    |
 |         | Monday, March 17, 2025       |      | Spring Break                            |
 |         | Wednesday, March 19, 2025    |      | Spring Break                            |
-| 16      | Monday, March 24, 2025       | 8    | Logistic Regression                     |
-| 17      | Wednesday, March 26, 2025    | 8    | Principal Component Analysis            |
-| 18      | Monday, March 31, 2025       | 9    | Clustering                              |
-| 19      | Wednesday, April 2, 2025     | 9    | Decision Trees                          |
-| 20      | Monday, April 7, 2025        | 10   | Support Vector Machines                 |
-| 21      | Wednesday, April 9, 2025     | 10   | Perceptron                              |
-| 22      | Monday, April 14, 2025       | 11   | Neural Networks + Backpropogation       |
-| 23      | Wednesday, April 16, 2025    | 11   | Auto-Encoders                           |
-| 24      | Monday, April 21, 2025       | 12   | Large Language Models                   |
-| 25      | Wednesday, April 23, 2025    | 12   | Reinforcement Learning                  |
-| 26      | Monday, April 28, 2025       | 13   | Ensemble Learning                       |
-| 27      | Wednesday, April 30, 2025    | 13   | Ethics                                  |
-| 28      |                              |      | Final Exam                              |
+| 15      | Monday, March 24, 2025       | 8    | Logistic Regression                     |
+| 16      | Wednesday, March 26, 2025    | 8    | Principal Component Analysis            |
+| 17      | Monday, March 31, 2025       | 9    | Clustering                              |
+| 18      | Wednesday, April 2, 2025     | 9    | Decision Trees                          |
+| 19      | Monday, April 7, 2025        | 10   | Support Vector Machines                 |
+| 20      | Wednesday, April 9, 2025     | 10   | Perceptron                              |
+| 21      | Monday, April 14, 2025       | 11   | Neural Networks + Backpropogation       |
+| 22      | Wednesday, April 16, 2025    | 11   | Auto-Encoders                           |
+| 23      | Monday, April 21, 2025       | 12   | Large Language Models                   |
+| 24      | Wednesday, April 23, 2025    | 12   | Reinforcement Learning                  |
+| 25      | Monday, April 28, 2025       | 13   | Ensemble Learning                       |
+| 26      | Wednesday, April 30, 2025    | 13   | Ethics                                  |
+| 27      |                              |      | Final Exam                              |
 |------- |-------  |------- |------- |
 
 <a name = 'prereq'></a>
