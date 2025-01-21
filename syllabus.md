@@ -150,8 +150,8 @@ Course Communication:
 
 | Category | 4220 | 5220 | Details |
 | --- | --- | --- | ---  |
-| Homeworks | 25% | 20% | Drop 1 |
-| Projects | 20% | 15% | |
+| Homeworks | 20% | 15% | Drop 1 |
+| Projects | 25% | 20% | |
 | Labs | 5% |  | Drop 2 |
 | Quizzes | 10% | 10% | |
 | Midterm Exam | 20% | 20% | |
