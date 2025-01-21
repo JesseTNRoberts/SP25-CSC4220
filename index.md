@@ -5,14 +5,13 @@ nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/62812
-  faq: https://ds100.org/faqs/fa24
-currWeekNumber: 17
+currWeekNumber: 1
 ---
 
-# Data 100: Principles and Techniques of Data Science
+# CSC 4220: Data Mining and Machine Learning
 
 {: .mb-2 }
-UC Berkeley, Fall 2024
+Tennesse Tech, Spring 2025
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 [Ed](https://edstem.org/us/courses/62812){:target="\_blank" .btn .btn-ed .mr-1 }
