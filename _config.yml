@@ -55,16 +55,16 @@ color_scheme: wider
 
 # Collections for website data
 collections:
-  - schedule_items
+  - modules
   - announcements
   - staffers
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
-      type: schedule_item
+      type: modules
     values:
-      layout: schedule_item
+      layout: module
   - scope:
       path: ''
       type: announcements
