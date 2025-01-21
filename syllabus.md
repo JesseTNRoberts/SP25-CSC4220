@@ -26,9 +26,12 @@ This course begins by exploring the basics of data science using python to under
 
 ### Goals
 
-- Prepare students for advanced courses in machine learning or data science by exploring the foundational models and context.
-- Enable students to start careers as data scientists by providing experience working with real-world data, tools, and techniques.
-- Empower students to apply computational and inferential thinking to address real-world problems.
+
+
+
+- Empower students to apply computational and inferential thinking to address real-world data science problems. (**Learn practical data science theory and tools**)
+- Prepare students for advanced courses in machine learning or data science by exploring the foundational models and context. (**Learn foundations of machine learning theory**)
+- Explore the tools and theory used to create and train complex deep learning models at scale. (**Expose to practical machine learning and tools**)
 
 <a name = 'prereq'></a>
 ### Prerequisites

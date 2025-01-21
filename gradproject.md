@@ -30,3 +30,5 @@ There will be an **afternoon discussion** about the reading to be scheduled in t
 ## Project 
 
 Students in the graduate course will form into groups, and then propose and conduct an original project that utilizes concepts from both machine learning and data science. Projects related to climate data, natural language processing, or machine vision are encouraged. 
+
+There will be 4 milestones with deadlines to be released soon - proposal and rubric, background literature, implementation, and evaluation. 
