@@ -20,9 +20,10 @@ author: Jesse Roberts
 baseurl: '/CSC4220' # the subpath of your site, e.g. /blog
 url: "https://www.JesseTNRoberts.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'resources/assets/favicon/TechSignatureSeal_TransparentBkgd_Gold.png'
+favicon_ico: "favicon.ico"
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.5.2
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 permalink: pretty
