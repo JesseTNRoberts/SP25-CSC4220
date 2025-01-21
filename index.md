@@ -32,7 +32,7 @@ Tennesse Tech, Spring 2025
 
 {: .highlight }
 
-> Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
+> Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of CSC4220!
 
 
 <!-- {: .note }
