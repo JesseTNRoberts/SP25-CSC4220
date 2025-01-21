@@ -184,8 +184,6 @@ If you misrepresent work as your own disciplinary action will be taken, includin
 
 **Assignments.** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your peers are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so will be considered academic misconduct. 
 
-**Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
-
 The benefit to completing the work in this course is similar to the benefit one gets from running laps. If someone else does it for you, you don't get the benefit. The value is in the doing, and not in having a completed assignment.
 
 **Exams.** Students caught cheating on any exam will fail the course. No exceptions.
@@ -193,6 +191,14 @@ The benefit to completing the work in this course is similar to the benefit one 
 Plagiarism on any assignment, as well as other violations to TnTech’s [Student Handook](https://www.tntech.edu/handbooks/student/index.php){:target="_blank"}, will be reported. Additionally, we reserve the right to give you an F in the course. It’s just not worth it!
 
 Rather than copying, ask for help. You are not alone! The instructor and TAs are here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and respect for you.
+
+### Generative AI Usage
+
+**Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
+
+What can you do with Generative AI?
+
+You can ask questions to improve understanding, treat it as a documentation assistant, or even a debugging assistant. 
 
 
 ### Student Academic Integrity Policy  
