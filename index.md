@@ -33,8 +33,6 @@ Tennesse Tech, Spring 2025
 {: .highlight }
 
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
-> 
-> Lectures will be webcast at: [https://berkeley.zoom.us/j/91349586134](https://berkeley.zoom.us/j/91349586134){:target="\_blank"}.
 
 
 <!-- {: .note }
