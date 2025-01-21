@@ -19,7 +19,7 @@ description: Data Mining and Machine Learning
 author: Jesse Roberts
 baseurl: '/CSC4220' # the subpath of your site, e.g. /blog
 url: "https://www.JesseTNRoberts.com" # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'resources/assets/favicon/panda-logo.png'
+logo: 'resources/assets/favicon/TechSignatureSeal_TransparentBkgd_Gold.png'
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.2
@@ -35,14 +35,14 @@ nav_external_links:
     hide_icon: true
     aria_label: "Data 100 Course Notes" 
     # opens_in_new_tab: true
-  - title: Debugging Guide
-    url: https://ds100.org/debugging-guide/
-    hide_icon: true
-    aria_label: "Data 100 Debugging Guide" 
+ #  - title: Debugging Guide
+ #   url: https://ds100.org/debugging-guide/
+ #   hide_icon: true
+ #   aria_label: "Data 100 Debugging Guide" 
     # opens_in_new_tab: true
-  - title: Course FAQ
-    url: https://ds100.org/faqs/fa24/
-    hide_icon: true
+ # - title: Course FAQ
+ #   url: https://ds100.org/faqs/fa24/
+ #   hide_icon: true
 
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
