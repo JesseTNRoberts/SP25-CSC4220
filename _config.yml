@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data 100
-description: Principles and Techniques of Data Science
-author: Joseph E. Gonzalez, Narges Norouzi
-baseurl: '/fa24' # the subpath of your site, e.g. /blog
-url: 'https://ds100.org' # the base hostname & protocol for your site, e.g. http://example.com
+title: CSC 4220
+description: Data Mining and Machine Learning
+author: Jesse Roberts
+baseurl: '/CSC4220' # the subpath of your site, e.g. /blog
+url: "https://www.JesseTNRoberts.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'resources/assets/favicon/panda-logo.png'
 
 # Theme settings
