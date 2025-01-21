@@ -45,7 +45,7 @@ Please consult the [Resources](../resources) page for additional resources for r
 **Textbook**: This course has two official texts. Both texts are available for free online (legally) at the provided links.
 
 - [Learning Data Science](https://learningds.org/intro.html) by Sam Lau, Joey Gonzalez, and Deb Nolan
-- [Deep Learning: Foundations and Concepts ](https://www.bishopbook.com) by Christopher Bishop and Hugh Bishop
+- [Introduction to Statistical Learning with Python](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
 
 Additionally, the course material will be supplemented by instructor notes and other external resources.
 
@@ -145,6 +145,7 @@ Course Communication:
 
 ## Policies
 
+
 ### Grading Scheme
 
 | Category | 4220 | 5220 | Details |
@@ -161,16 +162,18 @@ Course Communication:
 
 All assignments are due at **_11:59 PM Central Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
 
+Labs aren't accepted late. All other assignments have a 20% per day late penalty.
+
 ### Slip Days
 
-Each student gets an extension budget of **12** total slip days for the 12 homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
+Each student gets an extension budget of **6** total slip days for the homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope. 
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Ilearn. 
 
 {: .note }
-> If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. 
+> If all 6 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used. 
 
-Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
+Each project or homework can have a maximum of **4** slip days applied. After 3 days of the assignment due date, it is unlikely that we will be able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
 
 
