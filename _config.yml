@@ -46,6 +46,8 @@ nav_external_links:
 
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+  
+  Much of the content here is adapted from open source content developed for the <a href="https://ds100.org"> Data 100 </a> course at Berkeley
 heading_anchors: false
 
 color_scheme: wider
