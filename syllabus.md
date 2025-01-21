@@ -122,12 +122,12 @@ There will be two exams in this course:
 
 ### Graduate Course
 
-Students in the graduate version of the course will complete 3 additional assignments. 
+Students in the graduate version of the course will complete 2 additional assignments. 
 
-- A modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible) 
-- A group discussion based on research paper reading
-- A culminating group project 
+- Reading and discussing a modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible) 
+- An original project involving data science and machine learning techniques
 
+For more information, refer to the graduate course extension page.
 
 ## Office Hours and Communication
 
