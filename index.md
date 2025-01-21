@@ -44,6 +44,6 @@ Tennesse Tech, Spring 2025
 
 ## Schedule
 
-{% for module in site.modules %}
-{{ module }}
+{% for schedule_item in site.schedule_items %}
+{{ schedule_item }}
 {% endfor %}
