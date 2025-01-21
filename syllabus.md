@@ -24,7 +24,7 @@ Jump to:
 
 This course begins by exploring the basics of data science using python to understand the role of modeling. The relevant portion of the world can range from simple to outrageously complex. So, we must learn various types of models and explore how to evaluate and choose models, based on task type, complexity, and available data. We will delve into: Simple linear regression (with and without input transformations), multiple linear regression, logistic regression, PCA, KNN clustering, decision trees, support vector machines, the perceptron, multi-layer perceptron, auto-encoders, and large language models. Additionally, we will discuss ensemble learning, reinforcement learning, and machine learning ethics. 
 
-The instructor is Dr. Jesse Roberts. To find out more about the course instructor and TAs, explore the course staff [page](/staff). 
+The instructor is Dr. Jesse Roberts. To find out more about the course instructor and TAs, explore the course staff [page](../staff). 
 
 ### Goals
 
