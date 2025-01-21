@@ -118,7 +118,7 @@ There will be two exams in this course:
 
 {: .important}
 > - **Midterm** on **Wednesday, March 12** 1-2:15 PM CST.
-- **Final** on **Tuesday, May 6** 1-3 PM CST.
+> - **Final** on **Tuesday, May 6** 1-3 PM CST.
 
 ### Graduate Course
 
