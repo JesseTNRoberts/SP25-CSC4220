@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 ---
 
 
-**Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours. All GSI Office Hours will be held in Warren 101B.
+**Note:** Consult the [office hourse calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours. 
 
 <a name = 'inst'></a>
 
