@@ -47,7 +47,7 @@ Please consult the [Resources](../resources) page for additional resources for r
 - [Learning Data Science](https://learningds.org/intro.html) by Sam Lau, Joey Gonzalez, and Deb Nolan
 - [Deep Learning: Foundations and Concepts ](https://www.bishopbook.com) by Christopher Bishop and Hugh Bishop
 
-Additionally, the course material will be supplemented by instructor notes as well as notes based on the course notes provided in the Berkeley Data 100 course.
+Additionally, the course material will be supplemented by instructor notes and other external resources.
 
 
 ## Course Culture
