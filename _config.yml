@@ -172,8 +172,8 @@ last_edit_time_format: '%m %d, %Y at %H:%M'
 # The default false removes files in that directory, which is useful for when you unpublish pages.
 # keep_files: false
 
-# Likely not necessary, but a google default for Berkeley
-timezone: America/Los_Angeles
+# Likely not necessary, but a google default for TnTech
+timezone: America/Nashvillle
 
 # Note: dotfiles are excluded by default. .htaccess is included as a common case.
 include:
