@@ -5,6 +5,13 @@ nav_order: 4
 description: Office Hours Calendar
 ---
 
+
+## TA Office Hours
+
+TBD - this will be updated shortly
+
+<br>
+
 ## Instructor Office Hours Calendar
 
 `Instructor office hours` are by appointment. Students are always welcome to stop by, but I may not be able to meet. Please use the calendar below to schedule a meeting. Feel free to email me with any questions as well!
@@ -14,8 +21,3 @@ description: Office Hours Calendar
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
-## TA Office Hours
-
-TBD - this will be updated shortly
-
-<br>
