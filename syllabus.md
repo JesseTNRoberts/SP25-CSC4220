@@ -169,7 +169,7 @@ Students in the graduate version of the course will complete 2 additional assign
 - Reading and discussing a modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible) 
 - An original project involving data science and machine learning techniques
 
-For more information, refer to the graduate course extension [page](/gradproject).
+For more information, refer to the graduate course extension [page](../gradproject).
 
 ## Office Hours and Communication
 
