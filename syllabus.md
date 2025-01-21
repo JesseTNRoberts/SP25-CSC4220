@@ -154,7 +154,7 @@ Course Communication:
 | Labs | 5% |  | Drop 2 |
 | Midterm Exam | 20% | 20% | |
 | Final Exam | 25% | 20% | |
-| Graduate Reading and Discussion | | 10% | |
+| Graduate Reading and Discussion | Bonus 5% | 10% | |
 | Graduate Final Project | |10% | |
 
 ### On-Time Submission
