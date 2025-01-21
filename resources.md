@@ -16,11 +16,6 @@ Jump to:
 {:toc}
 
 
-## Supplementary Course Notes
-Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
-
-Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu.
-
 
 <a name = 'course_website'></a>
 ## Course Website
@@ -30,8 +25,6 @@ All lecture materials and notes will be posted on the course website.
 
 ## Coding and Mathematics Resources
 
-{: .note }
-> This section is currently under construction -- we will be adding more resources down below!
 
 #### Pandas
 
