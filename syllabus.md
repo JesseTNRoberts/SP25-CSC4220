@@ -27,11 +27,46 @@ This course begins by exploring the basics of data science using python to under
 ### Goals
 
 
-
-
 - Empower students to apply computational and inferential thinking to address real-world data science problems. (**Learn practical data science theory and tools**)
 - Prepare students for advanced courses in machine learning or data science by exploring the foundational models and context. (**Learn foundations of machine learning theory**)
 - Explore the tools and theory used to create and train complex deep learning models at scale. (**Expose to practical machine learning and tools**)
+
+
+### Topic List and Tentative Schedule
+
+| Session | Day                          | Week | Lecture                                 |
+| ------- | ---------------------------- | ---- | --------------------------------------- |
+| 1       | Wednesday, January 22, 2025  | 0    | Introduction                            |
+| 2       | Monday, January 27, 2025     | 1    | Pandas 1                                |
+| 3       | Wednesday, January 29, 2025  | 1    | Pandas 2                                |
+| 4       | Monday, February 3, 2025     | 2    | Exploratory Data A nalysis              |
+| 5       | Wednesday, February 5, 2025  | 2    | Visualization                           |
+| 6       | Monday, February 10, 2025    | 3    | Statistics and Hypothesis Testing       |
+| 7       | Wednesday, February 12, 2025 | 3    | Sampling  Populations and Distributions |
+| 8       | Monday, February 17, 2025    | 4    | Intro to Modeling                       |
+| 9       | Wednesday, February 19, 2025 | 4    | Case studies                            |
+| 10      | Monday, February 24, 2025    | 5    | Multiple Linear Regression              |
+| 11      | Wednesday, February 26, 2025 | 5    | SkLearn + Gradient Descent              |
+| 12      | Monday, March 3, 2025        | 6    | Feature Engineering                     |
+| 13      | Wednesday, March 5, 2025     | 6    | Model Evaluation + Regularization       |
+| 14      | Monday, March 10, 2025       | 7    | Estimators + Bias + Variance            |
+| 15      | Wednesday, March 12, 2025    | 7    | Exam                                    |
+|         | Monday, March 17, 2025       |      | Spring Break                            |
+|         | Wednesday, March 19, 2025    |      | Spring Break                            |
+| 16      | Monday, March 24, 2025       | 8    | Logistic Regression                     |
+| 17      | Wednesday, March 26, 2025    | 8    | Principal Component Analysis            |
+| 18      | Monday, March 31, 2025       | 9    | Clustering                              |
+| 19      | Wednesday, April 2, 2025     | 9    | Decision Trees                          |
+| 20      | Monday, April 7, 2025        | 10   | Support Vector Machines                 |
+| 21      | Wednesday, April 9, 2025     | 10   | Perceptron                              |
+| 22      | Monday, April 14, 2025       | 11   | Neural Networks + Backpropogation       |
+| 23      | Wednesday, April 16, 2025    | 11   | Auto-Encoders                           |
+| 24      | Monday, April 21, 2025       | 12   | Large Language Models                   |
+| 25      | Wednesday, April 23, 2025    | 12   | Reinforcement Learning                  |
+| 26      | Monday, April 28, 2025       | 13   | Ensemble Learning                       |
+| 27      | Wednesday, April 30, 2025    | 13   | Ethics                                  |
+| 28      |                              |      | Final Exam                              |
+|------- |-------  |------- |------- |
 
 <a name = 'prereq'></a>
 ### Prerequisites
@@ -51,6 +86,8 @@ Please consult the [Resources](../resources) page for additional resources for r
 - [Introduction to Statistical Learning with Python](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
 
 Additionally, the course material will be supplemented by instructor notes and other external resources.
+
+
 
 
 ## Course Culture
