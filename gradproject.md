@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Graduate Project
+title: Graduate Course Extension
 nav_order: 3
-description: Specifications for the grad project for Data 200.
+description: Specifications for the grad extension for 5220
 markdown: kramdown
 ---
 # Graduate Project
@@ -13,10 +13,9 @@ markdown: kramdown
 
 ## Introduction
 
-Students in the graduate version of the course will complete 3 additional assignments.
+Students in the graduate version of the course will complete 2 additional assignments.
 - A modern book on machine learning approved by the instructor (ie. Genius Makers, The Alignment Problem, Human Compatible)
-- A group discussion based on research paper reading
-- A culminating group project
+- An original group project
 
 ## Modern Book and Research Papers on Machine Learning
 
