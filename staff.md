@@ -5,18 +5,12 @@ nav_order: 7
 description: A listing of all the course staff members.
 ---
 
-# Staff
-
-Jump to: [Instructors](#inst), [Lead Teaching Assistants](#leads), [UCS2s](#ucs2s), [UCS1s](#ucs1s).
 
 **Note:** Consult the [calendar]({{ site.baseurl }}/calendar) for the most up-to-date office hours. All GSI Office Hours will be held in Warren 101B.
 
-## Course Staff Email
-Contact course staff via Ed with any questions or concerns. For sensitive matters, the staff email address [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) is monitored by the instructors and a few lead TAs.
-
 <a name = 'inst'></a>
 
-## Instructors
+## Teaching Team
 
 <div class="role">
   {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -25,6 +19,7 @@ Contact course staff via Ed with any questions or concerns. For sensitive matter
   {% endfor %}
 </div>
 
+<!--
 <a name = 'leads'></a>
 
 ## Leads
@@ -72,7 +67,7 @@ Contact course staff via Ed with any questions or concerns. For sensitive matter
   {% for staffer in ucs1s %}
     {{ staffer }}
   {% endfor %}
-</div>
+</div> -->
 
 <!---
 <a name = 'tutors'></a>
