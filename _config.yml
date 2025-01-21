@@ -17,7 +17,7 @@
 title: CSC 4220
 description: Data Mining and Machine Learning
 author: Jesse Roberts
-baseurl: '/Spring2025/CSC4220' # the subpath of your site, e.g. /blog
+baseurl: '/SP25-CSC4220' # the subpath of your site, e.g. /blog
 url: "https://www.JesseTNRoberts.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'resources/assets/favicon/TechSignatureSeal_TransparentBkgd_Gold.png'
 favicon_ico: "/favicon.ico"
