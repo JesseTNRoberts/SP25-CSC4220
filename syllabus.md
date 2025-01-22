@@ -123,7 +123,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | --- | --- | --- | --- | --- | --- |
 | <span style="color:Green">Lecture</span> | | <span style="color:Green">Lecture</span> |  | |
 | Office Hours | | Office Hours | | | 
-| <span style="color: #c91d1d">**Lab N-1 due**</span> | | <span style="color: #c91d1d">**Homework N-1 due**</span> | <span style="color:#c91d1d">Homework and Lab N released</span> |  | 
+| | | <span style="color: #c91d1d">**Homework due**</span> | <span style="color:#c91d1d">Homework and Lab N released</span> |  | 
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
@@ -136,6 +136,12 @@ Lecture attendance is mandatory.
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
+
+### Participation
+
+Participation grades are 1 or 0 for each lecture. A score of 1 is earned by attending lecture and taking part in the slido interactive questions.
+
+
 ### Homework and Projects
 
 **Homeworks** are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. **Projects** are 2-week assignments (with a weekly checkpoint) that synthesize multiple topics.
@@ -145,22 +151,18 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - The primary form of support students will have for homeworks and projects are **office hours**.
 - Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, code on the internet). See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
 
-### Lab
 
-**Labs** are shorter, weekly programming assignments designed to give students familiarity with new ideas and to act as a comprehension check. They are meant to be completed prior to homework.
-- All lab assignments must be submitted to Ilearn by their posted deadlines.
-- All labs are intended to take about an hour.
-- Lab submissions are mandatory.
-- Labs are graded by the TAs based on completion and effort.
-- Labs are optional for 5220
+Homework and projects may take a number of forms. Often, they will require the ability to edit and run .ipynb files. There are resources available to help getting started with jupyter notebooks. 
+
 
 ### Exams
 
 There will be two exams in this course:
 
 {: .important}
-> - **Midterm** on **Wednesday, March 12** 1-2:15 PM CST.
+> - **Midterm** on **Wednesday, March 12** (tentative) 1-2:15 PM CST.
 > - **Final** on **Tuesday, May 6** 1-3 PM CST.
+
 
 ### Graduate Course
 
@@ -170,6 +172,7 @@ Students in the graduate version of the course will complete 2 additional assign
 - An original project involving data science and machine learning techniques
 
 For more information, refer to the graduate course extension [page](../gradproject).
+
 
 ## Office Hours and Communication
 
@@ -185,6 +188,7 @@ Course Communication:
 
 - **Email** is the primary way to contact the instructor or TAs outside of class and office hours. Typically, you will receive a response within 24 hours. 
 
+
 ## Policies
 
 
@@ -192,24 +196,23 @@ Course Communication:
 
 | Category | 4220 | 5220 | Details |
 | --- | --- | --- | ---  |
-| Homeworks | 20% | 15% | Drop 1 |
+| Participation | 5% | 5% | Drop 2 |
+| Homeworks | 25% | 15% | Drop 1 |
 | Projects | 25% | 20% | |
-| Labs | 5% |  | Drop 2 |
-| Quizzes | 10% | 10% | |
 | Midterm Exam | 20% | 20% | |
-| Final Exam | 20% | 20% | |
-| Graduate Reading and Discussion | Bonus 5% | 5% | |
+| Final Exam | 25% | 20% | |
+| Graduate Reading and Discussion | Bonus 5% | 10% | |
 | Graduate Project | | 10% | |
 
 ### On-Time Submission
 
 All assignments are due at **_11:59 PM Central Time_** on the due date specified on the [Home / Schedule](..) page. The date and time of this deadline are firm. Submitting even a minute past is considered late.
 
-Labs aren't accepted late. All other assignments have a 20% per day late penalty.
+All assignments have a 20% per day late penalty.
 
 ### Slip Days
 
-Each student gets an extension budget of **6** total slip days for the homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
+Each student gets an extension budget of **6** total slip days for the homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only during the semester.
 
 Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Ilearn. 
 
@@ -222,7 +225,7 @@ Each project or homework can have a maximum of **4** slip days applied. After 3 
 
 ### Collaboration Policy and Academic Honesty
 
-If you misrepresent work as your own disciplinary action will be taken, including a failing grade in the course.
+If you misrepresent work as your own, disciplinary action will be taken, including a failing grade in the course.
 
 **Assignments.** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your peers are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so will be considered academic misconduct. 
 
