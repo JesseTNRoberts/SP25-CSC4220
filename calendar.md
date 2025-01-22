@@ -21,7 +21,6 @@ description: Office Hours Calendar
 | 2:00 PM  |                  | Clement Hall 402 |                  | Clement Hall 402 |        |
 | 2:30 PM  |                  | Clement Hall 402 |                  | Clement Hall 402 |        |
 
-<br>
 
 ## Instructor Office Hours Calendar
 
