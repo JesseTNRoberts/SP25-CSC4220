@@ -21,7 +21,7 @@ Students in the graduate version of the course will complete 2 additional assign
 
 The field of machine learning is constantly evolving but has, at this point, a considerable history. There are several wonderful books on machine learning that provide broad insight acquired from a lifetime of work in machine learning. 
 
-The course staff will be reading "Algorithms to Live By" By Brian Christian and Tom Griffiths. Other options are "Genius Makers", "The Alignment Problem", and "Human Compatible". Other books not on this list are allowed, but must be approved by the instructor. 
+The course staff will be reading "Algorithms to Live By" By Brian Christian and Tom Griffiths. Other options are "Genius Makers", "The Alignment Problem", "Human Compatible", and "Weapons of Math Destruction". Other books not on this list are allowed, but must be approved by the instructor. 
 
 There will be an **afternoon discussion** about the reading to be scheduled in the **first half of the semester over donuts and coffee**. The discussion will be centered around machine learning history, modern problems in machine learning, and the future of machine learning. 
 
