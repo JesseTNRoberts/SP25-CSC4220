@@ -8,7 +8,21 @@ description: Office Hours Calendar
 
 ## TA Office Hours
 
-TBD - this will be updated shortly
+|          | Monday           | Tuesday          | Wednesday        | Thursday         | Friday |
+| -------- | ---------------- | ---------------- | ---------------- | ---------------- | ------ |
+| 10:00 AM | Clement Hall 402 |                  | Clement Hall 402 |                  |        |
+| 10:30 AM | Clement Hall 402 |                  | Clement Hall 402 |                  |        |
+| 11:00 AM | Clement Hall 402 |                  | Clement Hall 402 |                  |        |
+| 11:30 AM |                  |                  |                  |                  |        |
+| 12:00 PM |                  |                  |                  |                  |        |
+| 12:30 PM |                  |                  |                  |                  |        |
+| 1:00 PM  | Class            | Clement Hall 402 | Class            | Clement Hall 402 |        |
+| 1:30 PM  | Class            | Clement Hall 402 | Class            | Clement Hall 402 |        |
+| 2:00 PM  |                  | Clement Hall 402 |                  | Clement Hall 402 |        |
+| 2:30 PM  |                  |                  |                  |                  |        |
+| 3:00 PM  |                  |                  |                  |                  |        |
+| 3:30 PM  |                  |                  |                  |                  |        |
+| 4:00 PM  |                  |                  |                  |                  |        |
 
 <br>
 
