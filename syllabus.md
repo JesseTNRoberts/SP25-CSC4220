@@ -123,7 +123,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 | --- | --- | --- | --- | --- | --- |
 | <span style="color:Green">Lecture</span> | | <span style="color:Green">Lecture</span> |  | |
 | Office Hours | | Office Hours | | | 
-| | | <span style="color: #c91d1d">**Homework due**</span> | <span style="color:#c91d1d">Homework and Lab N released</span> |  | 
+| | | <span style="color: #c91d1d">**Homework due**</span> | <span style="color:#c91d1d">Homework N released</span> |  | 
 
 - **All deadlines are subject to change.**
 - The Office Hours schedule is on the [Calendar page](../calendar).
