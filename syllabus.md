@@ -180,7 +180,8 @@ We encourage you to discuss course content with your friends, classmates, and co
 
 - All office hours will be updated on the Office Hours Calendar.
 - Instructor office hours are by appointment and will be in office or on teams.
-- TA office hours are drop-in and will be held in (TBD).
+- TA office hours are drop-in and will be held in Clement 402.
+- Hours are listed in the office hours like of the website.
 
 Course Communication:
 
