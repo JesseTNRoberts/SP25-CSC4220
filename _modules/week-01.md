@@ -4,13 +4,13 @@ title: Week 1
 
 
 Jan 27
-: **Lecture 1**<!--{: .label .label-lecture} [Python and Pandas I](lecture/lec01)
-    : [Note 1](https://ds100.org/course-notes/pandas_1/pandas_1.html) -->
+: **Lecture 1**{: .label .label-lecture} [Python and Pandas I](lecture/lec01)
+    : [Note 1](https://ds100.org/course-notes/pandas_1/pandas_1.html) 
 
 
 Jan 29
-: **Lecture 2**<!-- {: .label .label-lecture } [Pandas II and Pandas III](lecture/lec02)
-    : [Note 2A](https://ds100.org/course-notes/pandas_2/pandas_2.html) [Note 2B](https://ds100.org/course-notes/pandas_3/pandas_3.html) -->
+: **Lecture 2**{: .label .label-lecture } [Pandas II and Pandas III](lecture/lec02)
+    : [Note 2A](https://ds100.org/course-notes/pandas_2/pandas_2.html) [Note 2B](https://ds100.org/course-notes/pandas_3/pandas_3.html) 
 : **Drop Deadline (w/o grade)**{: .label .label-deadline } 11:59pm CT
 
 
