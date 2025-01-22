@@ -16,10 +16,10 @@ description: Office Hours Calendar
 | 11:30 AM |                  |                  |                  |                  |        |
 | 12:00 PM |                  |                  |                  |                  |        |
 | 12:30 PM |                  |                  |                  |                  |        |
-| 1:00 PM  | Class            | Clement Hall 402 | Class            | Clement Hall 402 |        |
+| 1:00 PM  | Class            |                  | Class            |                  |        |
 | 1:30 PM  | Class            | Clement Hall 402 | Class            | Clement Hall 402 |        |
 | 2:00 PM  |                  | Clement Hall 402 |                  | Clement Hall 402 |        |
-
+| 2:30 PM  |                  | Clement Hall 402 |                  | Clement Hall 402 |        |
 <br>
 
 ## Instructor Office Hours Calendar
