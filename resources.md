@@ -22,6 +22,13 @@ Jump to:
 
 All lecture materials and notes will be posted on the course website.
 
+## Textbook 
+
+This course has two official texts. Both texts are available for free online (legally) at the provided links.
+
+- [Learning Data Science](https://learningds.org/intro.html) by Sam Lau, Joey Gonzalez, and Deb Nolan
+- [Introduction to Statistical Learning with Python](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
+
 
 ## Coding and Mathematics Resources
 
