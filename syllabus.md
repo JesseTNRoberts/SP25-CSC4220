@@ -189,6 +189,8 @@ Course Communication:
 - **Email** is the primary way to contact the instructor or TAs outside of class and office hours. Typically, you will receive a response within 24 hours. 
 
 
+
+
 ## Policies
 
 
