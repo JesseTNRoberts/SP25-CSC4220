@@ -19,7 +19,7 @@ Presented by Jesse Roberts
 
 The class is most interested in LLMs and data science in the real world!
 
-![Word Cloud](/resources/assets/images/Interests.jpg){:target="_blank"}
+<img src="/resources/assets/images/Interests.jpg" alt="Word Cloud" width="200"/>
 
 
 Content adapted from Data 100 instructors at UC Berkeley. See [Acknowledgments](../../acks) page.
