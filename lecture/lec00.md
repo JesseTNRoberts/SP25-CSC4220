@@ -17,7 +17,8 @@ Presented by Jesse Roberts
 
 ## Slido Feedback from Class Summary
 
-The class is most interested in LLMs and data science in the real world!
+- The class voted to have homeworks due on Fridays
+- The class is most interested in LLMs and data science in the real world! (see the word cloud generated below)
 
 <img src="./../../resources/assets/images/Interests.jpg" alt="Word Cloud" width="400"/>
 
