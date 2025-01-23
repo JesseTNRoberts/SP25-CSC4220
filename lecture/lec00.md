@@ -15,11 +15,14 @@ Presented by Jesse Roberts
 <!-- - [code HTML](../../resources/assets/lectures/lec01/lec01.html) -->
 
 
-## Class Feedback
+## Slido Feedback from Class Summary
 
 The class is most interested in LLMs and data science in the real world!
 
 <img src="./../../resources/assets/images/Interests.jpg" alt="Word Cloud" width="400"/>
 
+
+
+## Lecture Acknowledgements
 
 Content adapted from Data 100 instructors at UC Berkeley. See [Acknowledgments](../../acks) page.
