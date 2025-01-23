@@ -14,4 +14,11 @@ Presented by Jesse Roberts
 <!-- - [code HTML](../../resources/assets/lectures/lec01/lec01.html) -->
 
 
+## Class Feedback
+
+The class is most interested in LLMs and data science in the real world!
+
+[Word Cloud](/resources/assets/images/Interests.jpg){:target="_blank"}
+
+
 Content adapted from Data 100 instructors at UC Berkeley. See [Acknowledgments](../../acks) page.
