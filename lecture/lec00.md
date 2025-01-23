@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lecture 0 – Course Overview
+markdown: kramdown
 nav_exclude: true
 ---
 
