@@ -53,5 +53,14 @@ The subgoals are not set in stone. As you explore the data, you may ask addition
 
 The proposal (and all written documentation for the graduate proejct) should be written in the [AAAI format](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp&ved=2ahUKEwjS6uLAw4yLAxWXtYQIHZVfMIMQFnoECBIQAQ&usg=AOvVaw3HYp1UaLKI7zLDcSnmqOAt). I recommend using overleaf to prepare it. There's a tutorial on overleaf linked on the resources [page](../resources).
 
+### Background 
 
+TBD
 
+### Implementation Demonstration and Followup Questions
+
+TBD
+
+### Results
+
+TBD
