@@ -39,6 +39,13 @@ This course has two official texts. Both texts are available for free online (le
   - [The Pandas Cookbook](http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/master/cookbook/): Overview of some of the basic Pandas functions. 
   - [Python for Data Science](http://wavedatalab.github.io/datawithpython/index.html) Notebooks demonstrating Pandas functionality.
 
+#### Jupyter Notebooks
+
+Jupyter notebooks can be executed and edited in a number of IDEs. I prefer to work with jupyter notebooks in [google collaboratory](https://colab.research.google.com) and this will be the official platform which students are encouraged to use. Others may prefer to use a local IDE like [visual studio](https://code.visualstudio.com). Students are free to choose their preferred platform. However, course staff may be unable to help resolve IDE specific issues.
+
+- [Tutorial](https://saturncloud.io/blog/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory/) for uploading .ipynb file to google colab 
+
+
 #### LaTeX
 + [Guide to Overleaf and LaTeX](https://www.overleaf.com/learn)
 
