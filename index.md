@@ -35,8 +35,8 @@ Tennesse Tech, Spring 2025
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of CSC4220!
 
 
-<!-- {: .note }
-> <span style="color:red">**Enrollment: As of Jan. 23, 2024, Data C100/200 is closed and no further enrollment is possible.**</span>  -->
+{: .note }
+> <span style="color:red">**Homework 1 will be assigned on Wednesday**</span>  
 
 
 <a name="schedule"></a>
