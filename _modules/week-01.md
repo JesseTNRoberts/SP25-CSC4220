@@ -15,7 +15,7 @@ Jan 29
 
 
  Jan 30
-: **Homework 1**{: .label .label-hw } (due Feb 7) [Homework 1](https://drive.google.com/file/d/1suoC_8-ICktFwf33FQ-yLp06zhLukmPE/view?usp=sharing)
+: **Homework 1**{: .label .label-hw } (due Feb 7) [Homework 1](https://colab.research.google.com/drive/1suoC_8-ICktFwf33FQ-yLp06zhLukmPE)
 <!--: **Lab 1**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Flab%2Flab02%2Flab02A.ipynb&branch=main) (due Feb 3) -->
 
 <!-- [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa24-student&urlpath=lab%2Ftree%2Ffa24-student%2Fhw%2Fhw02A%2Fhw02A.ipynb&branch=main)  -->
