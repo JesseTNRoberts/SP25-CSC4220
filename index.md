@@ -34,9 +34,9 @@ Tennesse Tech, Spring 2025
 
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of CSC4220!
 
-
+<!-- 
 {: .note }
-> <span style="color:red">**Homework 1 will be assigned on Wednesday**</span>  
+> <span style="color:red">**Homew -->ork 1 will be assigned on Wednesday**</span>  
 
 
 <a name="schedule"></a>
