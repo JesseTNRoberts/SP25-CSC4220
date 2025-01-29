@@ -95,6 +95,13 @@ invertibility.
 + [Probability and statistics textbook](http://stat88.org/textbook/content/intro.html) that provides introductory probability coverage geared towards data science.
 
 
+## Homework Issues
+
+- cannot convert numpy.ndarray to numpy.ndarray (solved) - this is due to a wayward numpy version and is fixed. Solution: Reload the homework from the link.
+
+- If you changed pip3 to pip : info about why that may not work is [here](https://www.perplexity.ai/search/install-works-with-pip3-but-wh-i19KtrHVS7OUEdGOMCko1w) - TLDR; using pip instead of pip3 may not work depending on how your local python installation and pip are setup. Solution: Use pip3.
+
+- urllib related error on local execution. The homework code was developed for python 3.11.9, some python packages in 3.12 and 3.13 are not compatible. Solution: Install and use python 3.11.9
 
 
 ## Wellness Resources
