@@ -105,6 +105,8 @@ invertibility.
 
 - urllib related error on ##local## execution (solved) - The homework code was developed for python 3.11.9, some python packages in 3.12 and 3.13 are not compatible. Solution: Install and use python 3.11.9 - this does not affect colab
 
+- A test case failed that should have passed on qEx7 and qEx5 (solved) - Solution: reload the homework or (if you have already started) copy lines 9 & 10 in the first cell from the homework on the website and replace line 9 in your copy
+
 
 ## Wellness Resources
 
