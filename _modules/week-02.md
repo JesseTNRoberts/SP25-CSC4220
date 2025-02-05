@@ -8,7 +8,7 @@ Feb 3
 	: [In-Class Notebook](https://colab.research.google.com/drive/14tpp9fHXCxOMeP9YIouxiZJgNcNgAuuo)
 
 Feb 5 
-: **Lecture 4**{: .label .label-lecture} In-Class Exercise Part 2
+: **Lecture 4**{: .label .label-lecture} [In-Class Exercise Part 2](https://docs.google.com/presentation/d/1GCtPkuJlxlVSFcM5UV36SK3J0Teih__jzMsEympVl7w/edit?usp=sharing)
 	: [In-Class Notebook](https://colab.research.google.com/drive/1eoT49v73HHSB19E0EL5pMPETd4zKDbcL)
 
 Feb 7
