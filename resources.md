@@ -107,6 +107,8 @@ invertibility.
 
 - A test case failed that should have passed on qEx7 and qEx5 (solved) - Solution: reload the homework or (if you have already started) copy lines 9 & 10 in the first cell from the homework on the website and replace line 9 in your copy
 
+- There was a small issue with the example output on Question 2d. The output was listed as `np.array([0., 2., 4., 6.])` but it should have beeen `np.array([1., 3., 5., 7.])`. This didn't effect the grading and has been corrected. Thanks for reporting the error!
+
 
 ## Wellness Resources
 
