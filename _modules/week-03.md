@@ -5,7 +5,7 @@ title: Week 3
 Feb 10
 : **Lecture 3**{: .label .label-lecture} [Distributions, Sampling, and Statistics]()
 	: [Salary Questionare](https://docs.google.com/forms/d/e/1FAIpQLScGl6CMjzpbX3tozaLzqdSP3ihDAguCKFI-dYshfKoQKbg9Dw/viewform?usp=sharing) 
-	: [Lecture Demo Notebook](https://colab.research.google.com/drive/1ldmjEpiVs-hofzTkceAsezXCViQT6S33?usp=sharing)
+	: [Lecture Demo](https://colab.research.google.com/drive/1ldmjEpiVs-hofzTkceAsezXCViQT6S33?usp=sharing)
 
 Feb 12
 : **Lecture 4**{: .label .label-lecture} [Hypothesis Testing, Correlation, and In-Class Exercise]()
