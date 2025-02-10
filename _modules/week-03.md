@@ -8,7 +8,7 @@ Feb 10
 	: [In-Class Exercise](https://colab.research.google.com/drive/1ldmjEpiVs-hofzTkceAsezXCViQT6S33?usp=sharing)
 
 Feb 12
-: **Lecture 6**{: .label .label-lecture} [Hypothesis Testing, Correlation, and In-Class Exercise]()
+: **Lecture 6**{: .label .label-lecture} [Expectation, Variance, Correlation, and Hypothesis Testing]()
 : **Homework 2**{: .label .label-hw } (due Feb 21)
 
 <!-- Feb 7
