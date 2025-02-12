@@ -8,8 +8,11 @@ Feb 10
 	: [In-Class Notebook](https://colab.research.google.com/drive/1ldmjEpiVs-hofzTkceAsezXCViQT6S33?usp=sharing)
 
 Feb 12
-: **Lecture 6**{: .label .label-lecture} [Expectation, Variance, Correlation, and Hypothesis Testing]()
+: **Lecture 6**{: .label .label-lecture} [Expectation, Variance, Correlation, and Hypothesis Testing](https://docs.google.com/presentation/d/1ckNR-QHLTUF-B70y0mIcP_btUtz4zKHmR1PpPJBCdCA/edit?usp=sharing)
+	: [In-Class Debrief](https://colab.research.google.com/drive/1Nuh1ilye0zaVMrEPwraKo028-N3OO6gI?usp=sharing)
 : **Homework 2**{: .label .label-hw } (due Feb 21)
+
+
 
 <!-- Feb 7
 : **Homework 1 Due**{: .label .label-deadline } 
