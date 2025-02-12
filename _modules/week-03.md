@@ -10,7 +10,7 @@ Feb 10
 Feb 12
 : **Lecture 6**{: .label .label-lecture} [Expectation, Variance, Correlation, and Hypothesis Testing](https://docs.google.com/presentation/d/1ckNR-QHLTUF-B70y0mIcP_btUtz4zKHmR1PpPJBCdCA/edit?usp=sharing)
 	: [In-Class Debrief](https://colab.research.google.com/drive/1Nuh1ilye0zaVMrEPwraKo028-N3OO6gI?usp=sharing)
-: **Homework 2**{: .label .label-hw } (due Feb 21)
+: **Homework 2**{: .label .label-hw } (due Feb 21) [Homework 2](https://colab.research.google.com/drive/1wf2-rS3IptxsLfVfQlPfOawaIx2G623M?usp=sharing)
 
 
 
