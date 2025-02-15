@@ -43,7 +43,7 @@ So, there are two ways to go about forming a group to complete the project propo
 
 In research, I follow both paths. There are those that I work with because I like to work with them (this is usually the case for projects with those I already know). Then, there are those that I work with because a problem is mutually very compelling (often this is how I meet new colleagues!). Both paths can be very successful. 
 
-Regardless of how the group forms, the team must formally decide what questions they want to try to answer. The constraints are that the question should be addressable with data that is believably possible to acquire. So, answering the question, "is there an alien outpose on the dark side of the moon" would be challenging to address without a great source for satellite data or a moon mission. 
+Regardless of how the group forms, the team must formally decide what questions they want to try to answer. The constraints are that the question should be addressable with data that is believably possible to acquire. So, answering the question, "is there an alien outpost on the dark side of the moon" would be challenging to address without a great source for satellite data or a moon mission. 
 
 Referring to the data science life-cycle, the project proposal requires the team to define the questions and to have a plan on how/where they will obtain relevant data. The source of data could be public repositories, hand gathering, or anywhere in-between. 
 
