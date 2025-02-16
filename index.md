@@ -4,7 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-currWeekNumber: 3
+currWeekNumber: 4
 ---
 
 # CSC 4220: Data Mining and Machine Learning
@@ -35,12 +35,12 @@ Tennesse Tech, Spring 2025
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of CSC4220!
 
 
-{: .note }
-> <span style="color:red">**Homework 2 will be assigned on Wednesday**</span> 
+<!-- {: .note }
+> <s -->pan style="color:red">**Homework 2 will be assigned on Wednesday**</span> 
 
-{: .note }
+{<!-- : .note }
 > <span style="color:red">**Class will be in AIEB 130 from now on!**</span> 
-
+ -->
 
 <a name="schedule"></a>
 
