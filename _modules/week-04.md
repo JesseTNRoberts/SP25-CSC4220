@@ -8,7 +8,7 @@ Feb 17
 	: [In-Class Notebook](https://colab.research.google.com/drive/1zPrXIqxKVNQWWcW9fRo0jtQtqf-5kFXK?usp=sharing)
 
 Feb 19
-: **Lecture 8**{: .label .label-lecture} [Modeling and Machine Learning](https://docs.google.com/presentation/d/1GOBprQfy9k0zTqcTtSzdSOatjwbAKbRyUZt8764zk5w/edit?usp=sharing)
+: **Lecture 8**{: .label .label-lecture} [Modeling](https://docs.google.com/presentation/d/1GOBprQfy9k0zTqcTtSzdSOatjwbAKbRyUZt8764zk5w/edit?usp=sharing)
 	: [In-Class Notebook](https://colab.research.google.com/drive/1NhRSpkVquUtOTKGC8jGMSAKrhQE4sroo?usp=sharing)
 	: Section 2.1, 2.2, and 3.1 in [ISLR](https://www.statlearning.com) 
 

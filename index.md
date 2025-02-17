@@ -34,15 +34,13 @@ Tennesse Tech, Spring 2025
 
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of CSC4220!
 
+<!-- 
+{: .note }
+> <s pan style="color:red">**Homework 2 will be assigned on Wednesday**</span> 
 
-<!-- {: .note }
-> <s -->pan style="color:red">**Homework 2 will be assigned on Wednesday**</span> 
-
-{<!-- : .note }
-> <span style="color:red">**Class will be in AIEB 130 from now on!**</span> 
- -->
-
-<a name="schedule"></a>
+{: .note }
+> <span style="color:red">**Class will be in AIEB 130 from now on!**</span>  
+<a name="schedule"></a> -->
 
 ## Schedule
 
