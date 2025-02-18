@@ -122,7 +122,9 @@ The reason new_position is exposed is so that the positions can be logged for vi
 
 - Question 2a
 
-The successes variable should contain an array of booleans.
+The successes variable should contain an array of booleans. 
+
+There is a problem with the test case. If your answer is within 0.03 of $\pi$, then it is correct. 
 
 - Question 3b
 
