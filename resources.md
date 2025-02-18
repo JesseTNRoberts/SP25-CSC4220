@@ -110,6 +110,27 @@ invertibility.
 - There was a small issue with the example output on Question 2d. The output was listed as `np.array([0., 2., 4., 6.])` but it should have beeen `np.array([1., 3., 5., 7.])`. This didn't effect the grading and has been corrected. Thanks for reporting the error!
 
 
+### Homework 2
+
+- Question 1c 
+
+Do not use the new_position variable in any of the code that you write. You do not need it and accessing it breaks the game. 
+
+As discussed in class, the game was created by Thomas Bayes himself. In the game, he is able to identify the location of the mark on the wall knowing only if each new position struck by a thrown ball is to the right of the mark or not. If he was allowed to know where the ball struck (the content of new_position) then the game would not be interesting!
+
+The reason new_position is exposed is so that the positions can be logged for visualization (which is taken care of for you in the code). I apologize for any confusion!
+
+- Question 2a
+
+The successes variable should contain an array of booleans.
+
+- Question 3b
+
+This question can be answered by referring to the material from lecture 4 and 5 and the in class exercise. 
+
+There is one nuance that differs from what we have seen. The actual pdf for a binomial distribution is discrete. When we use KDE to estimate it, the function is smoothed. So, if you intend to integrate from 0 to 4, you should integrate from -0.5 to 4.5 to capture the smooth roll off. This will make sense when you plot the KDE estimated PDF.
+
+
 ## Wellness Resources
 
 Your well-being matters, and we hope that Data 100 is *never* a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful.
