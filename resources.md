@@ -132,6 +132,10 @@ This question can be answered by referring to the material from lecture 4 and 5 
 
 There is one nuance that differs from what we have seen. The actual pdf for a binomial distribution is discrete. When we use KDE to estimate it, the function is smoothed. So, if you intend to integrate from 0 to 4, you should integrate from -0.5 to 4.5 to capture the smooth roll off. This will make sense when you plot the KDE estimated PDF.
 
+- Question 5a
+
+The deflategate.csv file only contains the 15 datapoints visible in the first table. You can either copy and paste them into a dataframe, create a csv from those values, or download the csv [here](https://drive.google.com/file/d/1OCLP17_RaK0BphLxUNpO9Os-MULasn58/view?usp=sharing).
+
 
 ## Wellness Resources
 
