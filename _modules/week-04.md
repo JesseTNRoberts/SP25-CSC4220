@@ -8,7 +8,7 @@ Feb 17
 	: [In-Class Notebook](https://colab.research.google.com/drive/1zPrXIqxKVNQWWcW9fRo0jtQtqf-5kFXK?usp=sharing)
 
 Feb 19
-: **Lecture 8**{: .label .label-lecture} Snow Dat!
+: **Lecture 8**{: .label .label-lecture} Snow Day!
 Feb 21
 : **Grad Project**{: .label .label-deadline } [Project proposal due](gradproject#project-proposal-and-group-formation)   
 : **Homework 2 Due**{: .label .label-deadline } 
