@@ -10,7 +10,7 @@ Feb 24
 
 
 Feb 26
-: **Lecture 10**{: .label .label-lecture} [Gradient Descent and Multiple Regression](https://docs.google.com/presentation/d/1KDXtLtYRLmGI4SxgFLGibPbRp-yPLM5cX6ECLXfLp2I/edit?usp=sharing)
+: **Lecture 10**{: .label .label-lecture} [The Problem of Multiple Regression](https://docs.google.com/presentation/d/1KDXtLtYRLmGI4SxgFLGibPbRp-yPLM5cX6ECLXfLp2I/edit?usp=sharing)
 	: [In-Class Notebook](https://colab.research.google.com/drive/1eyb43tCT-XjSrzCsiQGaDjlwiRx9_vSe?usp=sharing)
 
 : **Homework 3**{: .label .label-hw } (due March 7)
