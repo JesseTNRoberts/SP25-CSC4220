@@ -4,7 +4,7 @@ title: Home / Schedule
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
 course:
-currWeekNumber: 4
+currWeekNumber: 5
 ---
 
 # CSC 4220: Data Mining and Machine Learning
