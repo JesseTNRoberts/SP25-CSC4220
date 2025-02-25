@@ -14,6 +14,6 @@ Feb 26
 	: [In-Class Notebook](https://colab.research.google.com/drive/1eyb43tCT-XjSrzCsiQGaDjlwiRx9_vSe?usp=sharing)
 	: Section 3.2 in [ISLR](https://www.statlearning.com) 
 
-: **Homework 3**{: .label .label-hw } (due March 7)
+: **Homework 3**{: .label .label-hw } (due March 14) [Homework 3](https://colab.research.google.com/drive/1uzThxhIpbOCd6rtbY0MLwnO9OrbZJS10?usp=sharing)
 
 
