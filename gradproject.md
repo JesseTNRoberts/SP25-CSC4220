@@ -55,7 +55,97 @@ The proposal (and all written documentation for the graduate proejct) should be 
 
 ### Background 
 
-TBD
+The goal of the background literature review is to provide a comprehensive understanding of the current state of research related to your project topic, with a particular focus on the datasets and algorithms used by other researchers. This will help define your project scope, identify gaps, and highlight the significance of your research question.
+
+The literature review should include at least 10 highly relevant papers.
+
+#### Step-by-Step Instructions
+
+##### 0. Schedule a Meeting with the Course Instructor
+
+- Set up a meeting with your course instructor to discuss your project proposal and gather feedback.
+- Be prepared to present your preliminary literature review findings.
+- Use the feedback to refine both your project scope and literature review.
+
+##### 1. Understand the Project Scope
+
+- Review your project's proposal and the defined research questions.
+- Make sure you clearly understand the data science and machine learning concepts your project involves.
+
+##### 2. Identify Key Areas
+
+- Based on your project's theme (climate data, natural language processing, machine vision, etc.), determine the primary areas of literature you need to explore, focusing especially on the datasets used in similar research.
+
+##### 3. Search for Literature
+
+- Use academic databases such as Google Scholar, IEEE Xplore, PubMed, ACM Digital Library, and Perplexity.ai.
+- Include keywords related to your project's focus area, specific subtopics, and datasets.
+- Consider recent publications (last 5 years) to ensure your review is up-to-date.
+
+##### 4. Collect Relevant Papers
+
+- Select papers that are seminal, highly cited, directly related to your project, and those that use specific datasets relevant to your research.
+- Aim for a mix of survey papers, journal articles, and conference proceedings.
+
+##### 5. Focus on Datasets
+
+- Pay special attention to the datasets used in the studies you collect.
+- Note the types of data (e.g., images, text, time-series), sources of the data (public repositories, custom collections), and any data preprocessing steps mentioned.
+- Look for any common datasets that are frequently used within your research area.
+
+##### 6. Organize Your Findings
+
+- Use a reference management tool (e.g., Zotero, Mendeley) to keep track of the papers and their citations.
+- Categorize the papers based on themes such as methodologies, datasets used, findings, and gaps identified by previous researchers.
+- Create a separate section or annotation for details about the datasets.
+
+##### 7. Review the Literature
+
+- Summarize key findings of each paper, with special emphasis on dataset descriptions and uses.
+- Compare methodologies, datasets, and results.
+- Identify Gaps: Look for areas that have not been explored or where results have been inconclusive, especially concerning datasets.
+- Highlight: Emphasize how your project will address these gaps and leverage the mentioned datasets.
+
+##### 8. Synthesize the Information
+
+- Create a narrative that connects the individual pieces of research, focusing on how the datasets have influenced previous findings.
+- Discuss how the existing literature helps frame your research question and methodology, particularly with respect to data sources.
+
+##### 9. Write the Literature Review
+
+Follow the AAAI format for writing your literature review. Structure your review as follows:
+
+###### Introduction
+
+State the purpose and scope of the literature review.
+
+###### Thematic Sections
+
+Organize the main body into logical sections based on themes (e.g., previous work in climate data analysis, NLP techniques for sentiment analysis, advancements in machine vision), with sub-sections on datasets.
+
+###### Datasets Section
+
+Include a dedicated section discussing the datasets used in the reviewed papers.
+
+###### Comparison and Discussion
+
+Highlight the strengths and weaknesses of the existing research, focusing on dataset availability and quality.
+
+###### Conclusion
+
+Summarize the key insights and how they relate to your project.
+
+
+##### 10. Peer Review and Revise
+
+- Exchange drafts with group members for feedback.
+- Make sure the literature review is clear, coherent, and sufficiently covers the relevant research areas.
+
+##### 11. Final Formatting and Submission
+
+- Ensure the document adheres to AAAI formatting guidelines, including citations and references.
+- Use Overleaf to prepare and format your document as recommended.
+- Submit the literature review by the deadline specified for milestone 2.
 
 ### Implementation Demonstration and Followup Questions
 
