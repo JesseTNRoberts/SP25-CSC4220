@@ -17,5 +17,7 @@ March 5
 : **Lecture 12**{: .label .label-lecture} [Gradient Descent Part 2](https://docs.google.com/presentation/d/1GzWCCsuQe5ucMg-fxTE6JaqJQU2yPZqTKpoO8CxBuoY/edit?usp=sharing)
 	: [In-Class Notebook](https://colab.research.google.com/drive/1KH3VZYfJ1KGEyCjL4BKcD8FJVENGp2Vq?usp=sharing)
 	: Section 10.7 in [ISLP](https://www.statlearning.com) 
+: **Midterm**{: .label-exam} [Draft](https://drive.google.com/file/d/14j7LYM0poVa0nf9r1jCAfYh2O9bSTe-t/view?usp=share_link)
+
 
 
