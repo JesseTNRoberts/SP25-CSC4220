@@ -9,7 +9,7 @@ March 10
 	: Section 2.2, 3.1, and 3.2  in [ISLP](https://www.statlearning.com) 
 : **Gradient Descent Demo**{: .label .label-demo} 
 	:[On a Linear Model](https://danferns.github.io/linear-regression-visualizer/) 
-	:[On a Neural Network](../demos/ANN-geogebra.html)
+	:[On a Neural Network](/demos/ANN-geogebra.html)
 
 
 March 12
