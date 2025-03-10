@@ -16,5 +16,5 @@ March 12
 
 
 
-March 14
+March 16
 : **Homework 3 Due**{: .label .label-deadline } 
