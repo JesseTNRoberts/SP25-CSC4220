@@ -16,6 +16,6 @@ March 26
 : **Homework 4**{: .label .label-homework }
 
 March 28
-: **Grad Project**{: .label .label-deadline } [Background literature review due](gradproject#background)   
-
- 
+: **Grad Project**{: .label .label-deadline } [Background literature review due](gradproject#background) 
+  
+: **Grad Book Reading**{: .label .label-deadline } [Book Club](gradproject#modern-book-and-research-papers-on-machine-learning)   
