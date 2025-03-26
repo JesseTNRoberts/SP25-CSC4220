@@ -11,6 +11,7 @@ March 24
 
 March 26
 : **Lecture 15**{: .label .label-lecture }[Logistic Regression](https://docs.google.com/presentation/d/1GmRAdDqhDSGi1qtW9dPbxfLwJDQWRrBHcrczcnmEsGk/edit?usp=sharing)
+	: [In-Class Notebook](https://colab.research.google.com/drive/1klwNHJLgFvSMggkKG625D_F9zNbgfWnc?usp=sharing)
 	: Section 4.3 in [ISLP](https://www.statlearning.com) 
 
 : **Homework 4**{: .label .label-homework }
