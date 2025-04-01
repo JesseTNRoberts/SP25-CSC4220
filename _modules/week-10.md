@@ -15,4 +15,4 @@ April 2
 
 
 April 4
-: **Project**{: .label .label-project} [Project Details](/undergradproject)
+: **Project**{: .label .label-project} [Project Details](./undergradproject)
