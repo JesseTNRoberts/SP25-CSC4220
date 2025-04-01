@@ -159,7 +159,7 @@ The written methodology doesn't need to be presentable (yet). It's purpose is so
 
 As this process unfolds, you will likely find questions that are answerable and interesting which you didn't define beforehand. For instance, if it were found that a language model were able to successfully control a robot arm to complete a task, a natural next question would be how large does the model need to be? Strategically, choose whether to pursue these followup questions based on time and the overall impact on the project's goal.
 
-The methodology and implementation will be submitted with the project document as part of the final submission. 
+The methodology and implementation document (ideally a well organized set of jupyter notebooks) should be submitted to this assignment dropbox.
 
 If you have questions regarding appropriate statistical methods for testing certain hypotheses or training certain models, please ask! 
 
