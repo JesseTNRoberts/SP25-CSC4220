@@ -23,7 +23,7 @@ The project requires each team to self-manage their progress through four phases
 
 1. Exploratory data analysis and hypothesis investigation (~1 week)
 2. Development and followup investigation (~1 week)
-3. Result cleanup and extraction (~1 week)
+3. Result cleanup and extraction (~1/2 week)
 4. Communication (~1/2 week)
 
 Each team must submit the following documentation at the culmination of the project:
@@ -36,4 +36,11 @@ Each team must submit the following documentation at the culmination of the proj
 
 The purpose of this project is to experience the process of customer goal understanding, investigation and development using data, and communication of the results to non-technical stakeholders. 
 
-Given this goal, the project will be graded accordingly. For instance, a project that identifies th
+Given this goal, the project will be graded accordingly. For instance, a project that identifies an appropriate set of questions and predictions and addresses these in an appropriate and statistically sound manner with proper investigation will be graded very favorably. A project that trains an interesting model without addressing the customer's questions or goals will not. 
+
+To get maximum credit address the customer's goals significantly and in a sound manner, contain those results in a notebook that is well organized and documented, and communicate these results in written and verbal form effectively. 
+
+
+## Due Date
+
+The project is due on April 27th with presentations on the 28th and 30th. 
