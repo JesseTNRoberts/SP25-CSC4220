@@ -149,8 +149,22 @@ Summarize the key insights and how they relate to your project.
 
 ### Implementation Demonstration and Followup Questions
 
-TBD
+In the project proposal, a number of questions and models have been proposed. Now, it is time to design and conduct appropriate experiments to answer these questions. 
 
-### Results
+There are two items that need to be completed in parallel. 
+- Item 1 - the written documentation of the experimental methodology. 
+- Item 2 - the experimental implementation. 
 
-TBD
+The written methodology doesn't need to be presentable (yet). It's purpose is so that you can remember the decisions and reasoning which were made for answering each question. One way to accomplish this is through structured usage of a jupyter notebook that mixes code and text cells. The text cells explain the question and the methodology while the code conducts the experiment.
+
+The methodology and implementation will be submitted with the project document as part of the final submission. 
+
+If you have questions regarding appropriate statistical methods for testing certain hypotheses or training certain models, please ask! 
+
+### Final Writeup with Results
+
+Finally, after conducting the experiments and obtaining results, create a well structured document that joins the proposal, the background, the methodology for answering each question, and the results into a single paper that is between 4 and 8 pages in length. 
+
+Update each section to reflect the final decisions of the project. The results section should present information in the most appropriate method for the type of result. For instance, do not list numeric values for 5 models in the body of a paragraph - a table would be more appropriate. Do not list values in a table when a graph or figure would be more appropriate.  
+
+The final two sections in the writeup should be a section called Conclusions and Limitations, respectively. In the conclusions section, provide a concise restatement of the questions investigated and answers obtained. In the Limitations section, point out the ways in which the answers to your questions are limited in applicability by the chosen dataset(s), methodology, and/or results. 
