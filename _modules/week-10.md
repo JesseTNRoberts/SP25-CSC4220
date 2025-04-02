@@ -9,7 +9,7 @@ March 31
 
 
 April 2
-: **Lecture 17**{: .label .label-lecture } [Model Evaluation and Neural Networks - How did we get here?](https://docs.google.com/presentation/d/1ZYrJfVFzvMhAy0fIXNGmM-oPuX6icJbWqEZnKXmAa2A/edit?usp=sharing)
+: **Lecture 17**{: .label .label-lecture } [Model Evaluation](https://docs.google.com/presentation/d/1ZYrJfVFzvMhAy0fIXNGmM-oPuX6icJbWqEZnKXmAa2A/edit?usp=sharing)
 	: [Solution for Monday](https://colab.research.google.com/drive/1uCcbVUlHeMMpg31OARrfWKDzY4sOiH_K?usp=share_link)
 	: [In_Class Notebook](https://colab.research.google.com/drive/1JSjQy3-sZXH-m5mNXJB_9EZH0n46BsIB?usp=sharing)
 
