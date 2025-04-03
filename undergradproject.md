@@ -17,6 +17,8 @@ This project asks teams of 4 or 5 to work with a customer and their data to answ
 
 The type of analysis used as well as the modeling approached applied will be based on the goals of the customer. For instance, if a customer wanted to know if either of two front displays in a store affected the probability that a potential customer would leave without purchasing anything, hypothesis testing could be used to evaluate the null hypothesis - that there is no difference. On the other hand, this won't predict the actual probability. Therefore, if the customer also wanted to have an estimate of the likelihood that a new comer will leave without making a purchase, model could be learned through logistic regression.
 
+At a minimum, each project must attempt to apply hypothesis testing, multivariate logistic regression, multivariate linear regression, and one of the higher complexity models that will be discussed in the coming two weeks. 
+
 ## Deliverables
 
 The project requires each team to self-manage their progress through four phases.
