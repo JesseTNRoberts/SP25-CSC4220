@@ -9,3 +9,11 @@ April 7
 	: [In-Class Exercise](https://colab.research.google.com/drive/1ee2jD7XYeoMsdKQ-tAlPuEK9wPA8F4tz?usp=sharing)
 
 
+
+April 9
+: **Lecture 19**{: .label .label-lecture } Coming soon
+	: Chapter 10 in [ISLP](https://www.statlearning.com) 
+	: [In-Class Exercise 1](https://colab.research.google.com/drive/1CqVZhDDL0lHgFG_CRDxAsYkxxeit9VC2?usp=sharing)
+	: [In-Class Exercise 2](https://colab.research.google.com/drive/1hjmJ3_jBNP41NBZZUejab5M5obGgqtAc?usp=sharing)
+	: [In-Class Exercise 3](https://colab.research.google.com/drive/183pCjuRUaJwGbtm54eEcnXWAaTIbCeRQ?usp=sharing)
+
