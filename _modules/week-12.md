@@ -4,7 +4,7 @@ title: Week 12
 
 
 April 14
-: **Lecture 20**{: .label .label-lecture } RNNs and CNNs
+: **Lecture 20**{: .label .label-lecture } RNNs, CNNs, and Transformers
 
 
 April 16
