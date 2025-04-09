@@ -14,7 +14,7 @@ March 26
 	: [In-Class Notebook](https://colab.research.google.com/drive/1klwNHJLgFvSMggkKG625D_F9zNbgfWnc?usp=sharing)
 	: Section 4.3 in [ISLP](https://www.statlearning.com) 
 
-: **Homework 4**{: .label .label-homework }
+: **Homework 4**{: .label .label-hw }
 
 March 28
 : **Grad Project**{: .label .label-deadline } [Background literature review due](gradproject#background) 
