@@ -19,4 +19,4 @@ March 26
 March 28
 : **Grad Project**{: .label .label-deadline } [Background literature review due](gradproject#background) 
   
-: **Grad Book Reading**{: .label .label-deadline } [Book Club](gradproject#modern-book-and-research-papers-on-machine-learning)   
+: **Grad Book Reading Due**{: .label .label-deadline } [Book Club](gradproject#modern-book-and-research-papers-on-machine-learning)   

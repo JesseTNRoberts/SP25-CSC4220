@@ -12,7 +12,7 @@ April 16
 
 
 April 18
-: **Grad Project**{: .label .label-deadline } [Implementation Demonstration and Follow up Questions](gradproject#implementation-demonstration-and-followup-questions)   
+: **Grad Project**{: .label .label-deadline } [Implementation Demonstration and Follow up Questions Due](gradproject#implementation-demonstration-and-followup-questions)   
 
-: **Homework 4**{: .label .label-deadline } 
+: **Homework 4 Due**{: .label .label-deadline } 
 
