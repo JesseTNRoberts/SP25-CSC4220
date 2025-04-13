@@ -136,6 +136,18 @@ There is one nuance that differs from what we have seen. The actual pdf for a bi
 
 The deflategate.csv file only contains the 15 datapoints visible in the first table. You can either copy and paste them into a dataframe, create a csv from those values, or download the csv [here](https://drive.google.com/file/d/1OCLP17_RaK0BphLxUNpO9Os-MULasn58/view?usp=sharing).
 
+### Homework 4
+
+- Question 7
+
+There is an issue in a few of the default installed versions of python modules in colab that intereferes with the textbook code. To resolve this, run the following line in a cell in your notebook. 
+
+!pip install --force-reinstall -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/refs/heads/main/requirements.txt
+
+That is installing the requirements with appropriate version listed in the textbook code repository here: https://github.com/intro-stat-learning/ISLP_labs/blob/main/requirements.txt 
+
+This problem and solution were identified by Samuel and Seif. Good work!
+
 
 ## Wellness Resources
 
