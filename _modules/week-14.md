@@ -9,6 +9,6 @@ April 28
 
 April 30
 : **Lecture 25**{: .label .label-lecture} Ethics
+: **Homework 5 Due**{: .label .label-deadline } 
 
 May 2
-: **Homework 5 Due**{: .label .label-deadline } 
