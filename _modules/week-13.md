@@ -10,4 +10,4 @@ April 23
 : **Lecture 23**{: .label .label-lecture} Clustering
 
 
-: **Homework 5**{: .label .label-hw } Read sections 8.1, 8.2, and 12.4 and complete exercise 9 in chapter 8 and exercise 3 in chapter 12 and all the parts of lab 12.5.3.
+: **Homework 5**{: .label .label-hw } Read sections 8.1, 8.2, and 12.4 and complete exercise 9 in chapter 8 and exercise 3 in chapter 12.
