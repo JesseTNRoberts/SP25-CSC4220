@@ -9,6 +9,7 @@ April 14
 
 April 16
 : **Lecture 21**{: .label .label-lecture } Decision Trees, Random Forests, and Ensemble Methods
+	: [In-Class Spreadsheet](https://docs.google.com/spreadsheets/d/1pXM5xh_WrU2-B-pRgbPRBrM65MsTfAmR/edit?usp=sharing&ouid=109444326926955015956&rtpof=true&sd=true)
 
 
 April 18
