@@ -8,7 +8,7 @@ April 14
 	: [In-Class Example](https://colab.research.google.com/drive/16ulK5Xtd3UW6sq7-5ho7HB04YenFB8ed?usp=sharing)
 
 April 16
-: **Lecture 21**{: .label .label-lecture } Decision Trees, Random Forests, and Ensemble Methods
+: **Lecture 21**{: .label .label-lecture } [Decision Trees](https://docs.google.com/presentation/d/1YmB71DsbD1OlMF6L8e8ZXLT32WuqPJWu9QtYFqlOgpw/edit?usp=sharing)
 	: [In-Class Spreadsheet](https://docs.google.com/spreadsheets/d/1VktaOVXb2vXXCfdcc2rW73BVW8DjErgw7TdCPIhFIsM/edit?usp=sharing)
 
 
