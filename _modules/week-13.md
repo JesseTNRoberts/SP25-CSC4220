@@ -12,5 +12,7 @@ April 21
 : **Homework 5**{: .label .label-hw } Read sections 8.1 and 12.4 and complete exercise 9 (part a through h) in chapter 8 and exercise 3 in chapter 12.
 
 April 23
-: **Lecture 23**{: .label .label-lecture} Ethics 
+: **Lecture 23**{: .label .label-lecture} [Ethics](https://docs.google.com/presentation/d/1vY6N8XzqVmgihc5_iZIvZ__t431ZZYdPvJfmThfnETE/edit?usp=sharing) 
+	: [What is Ethics?](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/what-is-ethics/)
+	: [ML Ethics Videos](https://rachel.fast.ai/posts/2021-08-17-eleven-ethics-videos/)
 
