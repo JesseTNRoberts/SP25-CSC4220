@@ -15,4 +15,4 @@ April 30
 : **Lecture 25**{: .label .label-lecture} Review Day 
 
 May 2
-: **Grad Project**{: .label .label-deadline } [Final Results](gradproject#results)   
+: **Grad Project**{: .label .label-deadline } [Final Results](gradproject#final-writeup-with-results)   
